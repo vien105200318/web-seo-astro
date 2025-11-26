@@ -1,27 +1,27 @@
 ---
-title: "Khởi Đầu Hành Trình - Khi Ý Tưởng Chạm Vào Hiện Thực"
-description: "Câu chuyện bắt đầu từ một giấc mơ về tạo ra game kinh dị Việt Nam đầu tiên của riêng mình"
+title: "The Beginning - When Ideas Touch Reality"
+description: "The story begins with a dream of creating my own Vietnamese horror game"
 pubDate: 2024-01-01
-tags: ["ý tưởng", "khởi đầu", "động lực"]
+tags: ["idea", "beginning", "motivation"]
 image: "/images/blog/001-cover.jpg"
 ---
 
-# Khởi Đầu Hành Trình
+# The Beginning
 
-Tất cả bắt đầu từ một đêm mưa tháng 12. Tôi ngồi một mình trong căn phòng tối, ánh đèn màn hình chiếu lên bức tường. Một câu hỏi cứ lẩn quẩn trong đầu: **"Tại sao chưa có game kinh dị nào thực sự khai thác văn hóa ma quỷ Việt Nam?"**
+It all started on a rainy night in December. I sat alone in my dark room, the screen light projecting onto the wall. A question kept circling in my mind: **"Why hasn't there been a horror game that truly exploits Vietnamese ghost culture?"**
 
-## Nguồn Cảm Hứng
+## Inspiration
 
-Từ nhỏ, tôi đã lớn lên với những câu chuyện ma dân gian - về ma đà, cô hồn, con mrơi trong rừng sâu. Những câu chuyện này không giống kinh dị phương Tây hay Nhật Bản. Chúng mang một nỗi sợ đặc trưng, gắn liền với đất đai, với tín ngưỡng, với những điều cấm kỵ của làng mạc Việt Nam.
+From a young age, I grew up with folk ghost stories - about "ma da" (water ghosts), wandering souls, and forest spirits deep in the woods. These stories are unlike Western or Japanese horror. They carry a specific fear, tied to the land, to beliefs, to the taboos of Vietnamese villages.
 
-## Quyết Định
+## The Decision
 
-Tôi quyết định sẽ tạo ra một game 3D kinh dị - một trải nghiệm không chỉ gây sợ hãi, mà còn khơi gợi ký ức văn hóa sâu xa của người Việt. Một game mà khi chơi, người ta sẽ cảm thấy như đang lạc vào những câu chuyện ma mà ông bà từng kể.
+I decided to create a 3D horror game - an experience that not only scares but also evokes deep cultural memories of Vietnamese people. A game where players feel like they are lost in the ghost stories their grandparents used to tell.
 
-Nhưng tôi chỉ là một người. **Solo dev**. Không team, không publisher, chỉ có đam mê và một chiếc laptop cũ.
+But I am just one person. **Solo dev**. No team, no publisher, just passion and an old laptop.
 
-## Con Đường Phía Trước
+## The Road Ahead
 
-Tôi biết con đường này sẽ dài và gian nan. Nhưng có điều gì đó trong lòng thôi thúc tôi bắt đầu. Đây là ngày đầu tiên - ngày tôi quyết định ghi lại mọi bước đi, mọi suy nghĩ, mọi thất bại và thành công.
+I know this road will be long and arduous. But something inside urges me to start. This is day one - the day I decided to record every step, every thought, every failure, and every success.
 
-**Hành trình bắt đầu từ đây.**
+**The journey starts here.**

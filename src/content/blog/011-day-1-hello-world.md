@@ -1,80 +1,74 @@
 ---
-title: "Day 1: Hello World Trong Unity"
-description: "Dòng code đầu tiên và bài học về ego"
-pubDate: 2024-02-25
+title: "Day 1: Hello World (In Unity)"
+description: "Setting up the project and writing the first lines of code"
+pubDate: 2024-03-01
 tags: ["development", "unity", "coding"]
 image: "/images/blog/011-cover.jpg"
 ---
 
-# Day 1: Hello World Trong Unity
+# Day 1: Hello World
 
-## Empty Scene
+## Project Setup
 
-Mở Unity lần đầu như solo dev. Main Camera. Directional Light. Và... nothing else.
+Finally opened Unity Hub.
+- **Project Name**: Project_Ma (temporary).
+- **Template**: 3D (URP).
+- **Version**: 2022.3.10f1 LTS.
+
+Click "Create Project". The waiting bar runs...
+
+## Folder Structure
+
+I learned from experience, need to organize neatly from the start:
+```
+_Project
+  ├── Animations
+  ├── Audio
+  ├── Materials
+  ├── Models
+  ├── Prefabs
+  ├── Scenes
+  ├── Scripts
+  │   ├── Core
+  │   ├── Player
+  │   ├── Systems
+  │   └── UI
+  └── Textures
+```
+Underscore `_` to keep my folder at the top.
 
 ## First Script
 
-`PlayerController.cs` - The most important script:
+Created `GameManager.cs`.
 
 ```csharp
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("Hành trình bắt đầu...");
+        Debug.Log("Hello World! The nightmare begins.");
     }
 }
 ```
 
-Nhấn Play. Console hiện: *"Hành trình bắt đầu..."*
+Drag script to an Empty GameObject. Press Play.
 
-**Tôi đã khóc.**
+Console: `Hello World! The nightmare begins.`
 
-Nghe dramatic nhưng real. Hai tháng dreaming, giờ finally code chạy.
+**It works!** (Of course it works, it's one line).
 
-## Blocking Environment
+## Git Setup
 
-Không làm gì fancy. Chỉ cubes:
-- 1 cube = floor (10x10)
-- 4 cubes = walls  
-- 1 cube = player (height 1.8)
-- ProBuilder để tạo nhà đơn giản
+- `git init`
+- Created `.gitignore` for Unity.
+- `git add .`
+- `git commit -m "Initial commit"`
+- Pushed to private GitHub repo.
 
-Nhìn như Minecraft. Nhưng đó là **nhà cổ đầu tiên.**
+## Feeling
 
-## Basic Movement
+A small step. But looking at that log line, I feel a strange excitement. The empty void of the scene is now a canvas.
 
-Implement WASD movement:
-
-```csharp
-void Update()
-{
-    float h = Input.GetAxis("Horizontal");
-    float v = Input.GetAxis("Vertical");
-    
-    Vector3 direction = new Vector3(h, 0, v);
-    transform.Translate(direction * speed * Time.deltaTime);
-}
-```
-
-Player di chuyển! Hơi giật, không smooth, nhưng it works!
-
-## Bài Học Đầu Tiên
-
-**Perfection kills progress.**
-
-Tôi đã mất 2 giờ trying to make movement "perfect" ngay lần đầu. Cuối cùng realize: Just make it work first, polish later.
-
-## Git First Commit
-
-```
-git init
-git add .
-git commit -m "Day 1: Basic player movement"
-```
-
-Cảm giác unreal. Project đã bắt đầu exist trong reality.
-
-**Ngày mai: First-person camera và interaction system.**
+**Tomorrow: First Person Controller.**

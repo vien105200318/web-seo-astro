@@ -1,61 +1,61 @@
 ---
-title: "Viết Kịch Bản - Câu Chuyện Ma Của Riêng Tôi"
-description: "Quá trình xây dựng cốt truyện và kịch bản cho game từ những mảnh ghép văn hóa"
+title: "Scriptwriting - My Own Ghost Story"
+description: "Building the plot and script for the game from cultural fragments"
 pubDate: 2024-01-15
-tags: ["kịch bản", "cốt truyện", "sáng tạo"]
+tags: ["script", "story", "creative"]
 image: "/images/blog/004-cover.jpg"
 ---
 
-# Viết Kịch Bản - Câu Chuyện Ma Của Riêng Tôi
+# Scriptwriting - My Own Ghost Story
 
 ## Premise
 
-**"Một phóng viên trẻ quay về làng quê để điều tra cái chết bí ẩn của bà nội. Nhưng trong tháng 7 âm lịch, ranh giới giữa sống và chết trở nên mong manh..."**
+**"A young journalist returns to his village to investigate the mysterious death of his grandmother. But in the 7th lunar month, the boundary between life and death becomes fragile..."**
 
-## Cốt Truyện Chính
+## Main Plot
 
-### Act 1: Về Làng
-Player điều khiển Minh, một phóng viên 28 tuổi. Bà nội vừa qua đời trong hoàn cảnh bí ẩn. Minh quyết định về làng làm lễ cúng 49 ngày, nhưng phát hiện nhiều điều kỳ lạ.
+### Act 1: Return to the Village
+Player controls Minh, a 28-year-old journalist. His grandmother just passed away under mysterious circumstances. Minh decides to return to the village for the 49-day ritual, but discovers many strange things.
 
-**Hook**: Trong di chúc, bà để lại một lá thư: *"Con cháu đừng về trong tháng 7. Nếu đã về, nhớ giữ 3 điều..."*. Nhưng Minh về muộn - đúng ngày 15/7 âm lịch.
+**Hook**: In her will, she left a letter: *"Descendants, do not return in the 7th month. If you have returned, remember 3 things..."*. But Minh returned late - exactly on the 15th of the 7th lunar month.
 
-### Act 2: Bí Ẩn Dần Mở
-- Dân làng tránh né, không chịu nói về cái chết của bà
-- Những hiện tượng siêu nhiên bắt đầu xảy ra
-- Minh phát hiện nhật ký của bà, ghi chép về một "lời nguyền" 100 năm trước
-- Cô hồn bắt đầu xuất hiện, đòi "nợ máu" từ tổ tiên
+### Act 2: Mysteries Unfold
+- Villagers avoid him, refusing to talk about his grandmother's death.
+- Supernatural phenomena begin to occur.
+- Minh discovers his grandmother's diary, recording a 100-year-old "curse".
+- Wandering souls begin to appear, demanding "blood debts" from ancestors.
 
-### Act 3: Chân Tướng
-- Bà nội đã biết về lời nguyền, hy sinh bản thân để bảo vệ Minh
-- Minh phải hoàn thành một nghi lễ phức tạp để phá lời nguyền
-- **Twist ending**: [giữ bí mật để không spoil]
+### Act 3: The Truth
+- Grandmother knew about the curse, sacrificed herself to protect Minh.
+- Minh must complete a complex ritual to break the curse.
+- **Twist ending**: [kept secret to avoid spoilers]
 
-## Các Nhân Vật Phụ
+## Side Characters
 
-1. **Cụ Sáu** - Người cao tuổi nhất làng, biết nhiều bí mật
-2. **Thanh** - Bạn thân thời nhỏ của Minh, giờ làm thầy cúng
-3. **Cô Năm** - Linh hồn cô hồn đầu tiên Minh gặp, cần giúp đỡ
-4. **Bà Năm** - Hàng xóm thù dai với bà nội Minh
+1. **Old Sau** - The oldest person in the village, knows many secrets.
+2. **Thanh** - Minh's childhood friend, now a shaman.
+3. **Miss Nam** - The first wandering soul Minh meets, needs help.
+4. **Mrs. Nam** - A neighbor with a grudge against Minh's grandmother.
 
-## Mechanics Kết Hợp Narrative
+## Mechanics Combined with Narrative
 
-- **Dialogue Choices**: Ảnh hưởng đến thông tin thu thập được
-- **Thời gian**: Phải hoàn thành quest trước giờ Tý mỗi đêm
-- **Cúng bái**: Cúng sai có thể gây tức giận linh hồn
-- **Điều tra**: Thu thập manh mối từ nhật ký, ảnh cũ, lời người già
+- **Dialogue Choices**: Affect gathered information.
+- **Time**: Must complete quests before the Hour of the Rat each night.
+- **Worship**: Incorrect worship can anger spirits.
+- **Investigation**: Gather clues from diaries, old photos, elders' words.
 
-## Themes Chính
+## Main Themes
 
-- **Gia đình vs Bổn phận**: Minh xé lẻ giữa chạy trốn và đối mặt
-- **Tội lỗi thế hệ**: Con cháu phải trả nợ tổ tiên
-- **Văn hóa phai nhạt**: Thế hệ trẻ quên mất tín ngưỡng, dẫn đến hậu quả
+- **Family vs Duty**: Minh torn between running away and facing it.
+- **Generational Sin**: Descendants paying for ancestors' debts.
+- **Fading Culture**: Younger generation forgetting beliefs, leading to consequences.
 
 ## Challenges
 
-Viết kịch bản khó hơn tôi tưởng. Làm sao để:
-- ✓ Giữ được văn hóa Việt authentic
-- ✓ Tạo sự sợ hãi psychological, không chỉ jumpscare
-- ✓ Có depth, không chỉ là "game ma"
-- ✗ Cân bằng gameplay và storytelling
+Writing a script is harder than I thought. How to:
+- ✓ Keep Vietnamese culture authentic.
+- ✓ Create psychological fear, not just jumpscares.
+- ✓ Have depth, not just a "ghost game".
+- ✗ Balance gameplay and storytelling.
 
-**Tôi đã viết lại draft 3 lần. Có lúc muốn bỏ cuộc...**
+**I've rewritten the draft 3 times. Sometimes I want to give up...**

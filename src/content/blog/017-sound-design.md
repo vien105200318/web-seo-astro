@@ -1,41 +1,45 @@
 ---
-title: "Sound Design: Silence Đáng Sợ Hơn Jumpscare"
-description: "Học cách dùng audio để tạo tension thay vì cheap scares"
-pubDate: 2024-03-24
-tags: ["sound design", "audio", "horror"]
+title: "Sound Design - The Sound of Silence"
+description: "Creating an immersive audio soundscape"
+pubDate: 2024-03-30
+tags: ["audio", "sound design", "atmosphere"]
 image: "/images/blog/017-cover.jpg"
 ---
 
-# Sound Design
+# Sound Design - The Sound of Silence
 
-## Revelation
+## Audio > Graphics
 
-Test game với sound OFF vs ON:
-- OFF: Boring walking simulator
-- ON: Actually creepy
+In horror, audio is 70% of the experience. You can close your eyes, but you can't close your ears.
 
-**Sound = 70% of horror.**
+## Layers of Sound
 
-## Layers
+### 1. Ambience (The Bed)
+- Night crickets (recorded real ones in countryside).
+- Wind howling through bamboo.
+- Distant dog barking (very faint).
 
-### Ambient
-- Wind through cracks (quiet, constant)
-- Distant dog barking
-- Crickets (với gaps của giai đoạn silence)
-- Temple bell far away
+### 2. Footsteps (The Player)
+- Different sounds for different surfaces: Wood, Dirt, Tile.
+- Script checks tag of floor material.
+- Added random pitch variation to avoid repetition.
 
-### Footsteps
-- Different surfaces: Wood creaks, dirt, gravel
-- Randomize pitch ±10%
-- Layered: Impact + scrape
+### 3. Events (The Scares)
+- Wood creaking in the house.
+- Sudden silence (stopping ambience = tension).
+- Whispers.
 
-### Interactive
-- Door hinges (old, rusty)
-- Item pickup (subtle)
-- Incense burning (ASMR-like)
+## Binaural Audio
 
-## The Power of Silence
+Enabled **Spatial Audio**.
+- Sounds have direction.
+- If a ghost cries behind you, you hear it behind you.
 
-Không chỉ spam sound effects. Strategic silence = người chơi nghe heartbeat của chính mình.
+## The "Toc Toc" Sound
 
-**Scariest sound = player's own breathing.**
+Recorded a gecko (tac ke) sound.
+In VN culture, hearing a gecko at night is normal, but also eerie.
+Added it as a random event.
+Played it back at 3 AM while testing. Scared myself.
+
+**Success.**

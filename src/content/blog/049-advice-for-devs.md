@@ -1,54 +1,36 @@
 ---
-title: "Advice For Aspiring Solo Devs"
-description: "Nếu bạn đang cân nhắc làm solo dev game - đây là lời khuyên của tôi"
-pubDate: 2024-11-30
-tags: ["advice", "solo dev", "tips"]
+title: "Advice for Aspiring Solo Devs"
+description: "My humble advice after shipping one game"
+pubDate: 2024-12-10
+tags: ["advice", "education", "inspiration"]
 image: "/images/blog/049-cover.jpg"
 ---
 
-# Advice For Aspiring Solo Devs
+# Advice for Aspiring Solo Devs
 
-## For Vietnamese Developers
+## 1. Start Small
 
-### 1. Văn Hóa Là Sức Mạnh
-Đừng copy phương Tây/Nhật. Vietnamese culture chưa được khai thác đủ trong games. Đây là opportunity.
+Smaller than that.
+No, even smaller.
+Make Pong. Then make Flappy Bird. Then make a 15-minute horror game.
 
-### 2. Start Small
-Vertical slice first. Proof of concept. Không nhảy vào epic game ngay.
+## 2. Consistency > Intensity
 
-### 3. Market Không Nhỏ Như Bạn Nghĩ
-Vietnamese diaspora worldwide + foreigners interested in culture = larger market than expected.
+Working 2 hours every day is better than 14 hours once a week.
+Momentum is everything.
 
-## For Any Solo Dev
+## 3. Finish It
 
-### 4. Finish > Perfect
-Shipped imperfect game > unfinished masterpiece.
+A bad finished game is infinitely better than a perfect unfinished game.
+Learn to close projects.
 
-### 5. Document Journey
-Blog, vlog, social media. Community support keeps you going.
+## 4. Take Care of Yourself
 
-### 6. Health > Game
-Burnout kills dreams. Rest, exercise, sleep.
+You are the most important asset of the studio.
+If you break, the game dies.
 
-### 7. Learn Business
-Making good game ≠ selling good game. Learn marketing basics.
+## 5. Just Do It
 
-### 8. Find Your Niche
-Don't compete với AAA. Find unique angle.
-
-## Resources
-
-- YouTube: Brackeys, Code Monkey, Thomas Brush
-- Tools: Unity/Godot (free), Blender (free), GIMP (free)
-- Community: r/gamedev, r/IndieDev, Discord servers
-- Vietnamese: Vietnamese Game Dev groups on Facebook
-
-## Final Words
-
-**If I can do it, you can too.**
-
-Tôi không phải genius. Không phải rich. Chỉ là người có dream và quyết định act.
-
-**Start today. Small steps. Keep going.**
-
-*I believe in you.*
+Don't wait for "the right time".
+Don't wait until you are "good enough".
+You get good by doing it.

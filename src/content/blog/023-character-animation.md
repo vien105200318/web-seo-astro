@@ -1,30 +1,41 @@
 ---
-title: "Character Animation: Breathing Life Into Spirits"
-description: "Learning animation để làm linh hồn di chuyển một cách đáng sợ"
-pubDate: 2024-05-03
-tags: ["animation", "character", "spirits"]
+title: "Character Animation - Making Spirits Move"
+description: "From static meshes to terrifying movement using Mixamo and custom tweaking"
+pubDate: 2024-05-01
+tags: ["animation", "art", "technical"]
 image: "/images/blog/023-cover.jpg"
 ---
 
-# Character Animation
+# Character Animation - Making Spirits Move
 
-## The Problem
+## The "Potato Sack" Problem
 
-Spirit model đẹp. Nhưng di chuyển như... robot.
+My friends laughed at the ghost because she T-posed or slid around.
+Need proper animation.
 
-## Solution: Mixamo + Custom
+## Mixamo to the Rescue
 
-- Base animations từ Mixamo (free!)
-- Modify trong Blender để eerie hơn:
-  - Slow down 50%
-  - Add สี่ Jitter/shake
-  - Unnatural joint bends
-  - Float invece of walk
+I can't animate. Adobe Mixamo is a lifesaver.
+- Downloaded "Zombie Walk", "Scary Idle", "Scream".
+- Retargeted to my Miss Nam model.
 
-## Result
+## The Uncanny Valley
 
-Spirit giờ di chuyển creepy as fuck.
+Standard zombie animations look... generic.
+I need "Vietnamese Ghost" movement.
+- Floating?
+- Twitching?
+- Broken limbs?
 
-One tester nói: "Tôi sợ cái cách nó di chuyển hơn là cái mặt"
+## Customizing via Code
 
-**Mission accomplished.**
+Used **Procedural Animation** on top of Mixamo.
+- Added a script to twitch the head randomly.
+- `transform.position.y += sin(time)` for floating effect.
+- IK (Inverse Kinematics) to make feet stick to ground (or not).
+
+## The Result
+
+She now floats slightly off the ground. Her head snaps unnaturally.
+She doesn't look like a generic zombie anymore.
+She looks wrong. In a good way.

@@ -1,15 +1,34 @@
 ---
-title: "Narrative Design: Environmental Storytelling"
-description: "Kể chuyện qua objects và environment thay vì dialogue dài"
-pubDate: 2024-05-17
-tags: ["narrative", "storytelling", "design"]
+title: "Environmental Storytelling - Walls That Talk"
+description: "Telling the story without text walls"
+pubDate: 2024-05-15
+tags: ["storytelling", "design", "level design"]
 image: "/images/blog/025-cover.jpg"
 ---
 
-# Environmental Storytelling
+# Environmental Storytelling - Walls That Talk
 
-Show don't tell. Ảnh cũ, nhật ký, vật dụng arranged một cách có ý nghĩa. Player piece together story của bà nội qua exploration.
+## Show, Don't Tell
 
-Inspiration: Gone Home, What Remains of Edith Finch.
+Players hate reading long notes.
+How to tell the tragedy of the family without text?
 
-**Subtle > Exposition dump.**
+## The Details
+
+1. **The Dining Table**: 3 bowls, but one is broken and covered in dust. (Implies a death/conflict).
+2. **The Calendar**: Stopped at July 15th (Lunar). (The day everything happened).
+3. **The Walls**: Scratch marks near the door. (Someone tried to get out).
+4. **The Altar**: Fresh fruit vs rotten fruit. (Someone was here recently).
+
+## Lighting as Guide
+
+Used light to guide attention to these details.
+A spotlight on the broken bowl.
+A candle near the calendar.
+
+## Player Reaction
+
+In new playtests, players noticed!
+"Who broke the bowl?"
+"Why is the calendar old?"
+They started asking questions. That's engagement.

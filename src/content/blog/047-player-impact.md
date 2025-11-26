@@ -1,39 +1,27 @@
 ---
-title: "Impact: Letters From Players"
-description: "Những message từ players touched my heart"
-pubDate: 2024-11-16
-tags: ["community", "impact", "emotional"]
+title: "Player Impact - Stories from the Community"
+description: "How the game touched players' lives"
+pubDate: 2024-11-25
+tags: ["community", "emotion", "impact"]
 image: "/images/blog/047-cover.jpg"
 ---
 
-# Letters From Players
+# Player Impact - Stories from the Community
 
-## The Messages That Made Me Cry
+## The Email
 
-### From Vietnamese Abroad
+Received an email from a Vietnamese student in Germany.
+"I haven't been home in 5 years. Playing your game made me cry because the altar looks exactly like my grandmother's. Thank you for bringing a piece of home to me."
 
-*"I'm Vietnamese living in US for 20 years. Playing your game, heard familiar sounds, saw familiar rituals... I cried. I felt home. Thank you."*
+## The Streamer
 
-### From Student
+A streamer played it with his mom.
+His mom recognized the folk songs. She started telling him stories about the war, about the old village.
+They bonded over a horror game.
 
-*"I'm studying game dev. Your journey inspired me to start my own project. If solo dev can do this, I can try."*
+## The Meaning
 
-### From Elder Vietnamese
-
-*"Tôi 65 tuổi. Lần đầu chơi game. Cháu làm tốt lắm, bảo tồn được văn hóa."*
-
-### From Western Player
-
-*"I knew nothing about Vietnamese culture. Your game taught me and scared me. Beautiful experience."*
-
-## Realization
-
-Game không chỉ là entertainment.
-
-It's:
-- Cultural preservation
-- Bridge between generations
-- Inspiration for others
-- Art that moves people
-
-**This impact > any sales number.**
+This is why we make games.
+Not for money. Not for fame.
+For connection.
+To make someone, somewhere, feel something.

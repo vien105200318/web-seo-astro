@@ -1,39 +1,40 @@
 ---
-title: "Launch Day: The Game Is Out"
-description: "Ngày game ra mắt - cảm xúc không thể diễn tả"
-pubDate: 2024-10-12
-tags: ["launch", "milestone", "achievement"]
+title: "Launch Day - 31st October"
+description: "The day the game went live to the world"
+pubDate: 2024-10-31
+tags: ["launch", "celebration", "milestone"]
 image: "/images/blog/042-cover.jpg"
 ---
 
-# Launch Day
+# Launch Day - 31st October
 
-## 00:00, October 12, 2024
+## 09:00 AM
 
-Game live trên Steam.
+Pressed the button.
+"Your app is now available on Steam."
 
-Ngồi refresh Steam page mỗi 30 giây.
+## 09:01 AM
 
-## First Hour
+Refreshed the page.
+"Positive (1 review)".
+It's my friend. Thanks, bro.
 
-- 15 copies sold
-- 3 reviews (all positive!)
-- Wishlists converting
-- Discord server alive với discussion
+## 12:00 PM
 
-## Emotional Overload
+First stranger review.
+"Recommended. Short but scary. Good atmosphere."
+I cried. I actually cried.
 
-Đọc review đầu tiên:
+## 06:00 PM
 
-*"As a Vietnamese, I've never felt more represented in a game. The cultural details are perfect. This is special."*
+A Vietnamese streamer with 500k subs is playing it.
+Chat is going wild.
+"Game Viet ha?" (Is this a Viet game?)
+"Nhìn sợ vãi" (Looks scary AF).
 
-**Tôi khóc lần thứ 3 trong journey này.**
+## Midnight
 
-## Evening Stats
-
-- 250 copies sold (Day 1!)
-- 25 reviews (24 positive, 1 mixed)
-- Trending on Steam Vietnam
-- Reddit post viral: 5K upvotes
-
-**18 tháng lead to đây. Worth it.**
+Sales: 150 copies.
+It's not a million. But it's 150 people playing my game.
+I opened a beer.
+**I did it.**

@@ -1,15 +1,54 @@
 ---
-title: "Interaction System: Nhặt Đồ Và Raycast"
-description: "Xây dựng hệ thống tương tác với objects trong game"
-pubDate: 2024-03-03
-tags: ["development", "interaction", "raycast"]
+title: "Interaction System - Touching the World"
+description: "Building a flexible interaction system for doors, items, and clues"
+pubDate: 2024-03-10
+tags: ["development", "system", "interaction"]
 image: "/images/blog/013-cover.jpg"
 ---
 
 # Interaction System
 
-Raycast từ camera để detect interactive objects. Highlight khi player nhìn vào. Press E để interact.
+## Design
 
-Đơn giản nhưng effective. đ Testing với picking up incense sticks - it works!
+I want a system where I can look at an object, see a prompt, and press 'E' to interact.
+- Doors: Open/Close.
+- Items: Pick up/Examine.
+- Lights: Turn on/off.
+- Drawers: Slide out.
 
-**First gameplay loop working: Walk → Look → Interact**
+## Interface Approach
+
+Created `IInteractable` interface:
+
+```csharp
+public interface IInteractable
+{
+    string GetDescription();
+    void Interact();
+}
+```
+
+Any object implementing this can be interacted with.
+
+## Raycasting
+
+In `PlayerInteract.cs`:
+- Cast a ray from camera center forward.
+- Range: 2.5 meters (short reach).
+- If hit object has `IInteractable`, show UI prompt.
+- If Input 'E', call `Interact()`.
+
+## The Door Problem
+
+Doors are always harder than they look.
+- Rotating door? Physics door? Animation door?
+- Went with **Animation** for reliability.
+- Created `Door` script implementing `IInteractable`.
+- Triggers Animator bool "IsOpen".
+
+## Testing
+
+Placed a cube. Script: `Debug.Log("Touched cube")`.
+Walk up. "Press E to Interact". Press E. Log appears.
+
+**It feels like a game now.**

@@ -1,35 +1,42 @@
 ---
-title: "First Playtesting Session: Reality Check"
-description: "Watching stranger chơi game của mình lần đầu - brutal lessons"
+title: "First Playtesting - The Harsh Truth"
+description: "Watching others play my game and realizing everything is wrong"
 pubDate: 2024-04-20
-tags: ["playtesting", "feedback", "reality"]
+tags: ["playtesting", "feedback", "ux"]
 image: "/images/blog/021-cover.jpg"
 ---
 
-# First Playtesting: Ego Death
+# First Playtesting - The Harsh Truth
 
 ## The Setup
 
-5 playtesters: 2 gamers, 2 casual, 1 game dev.
+Invited 3 friends over. Ordered pizza.
+"Just play, I won't say anything."
+I sat behind them with a notebook.
 
-Tôi ngồi sau, observe, im lặng (hardest thing ever).
+## The Disaster
 
-## What I Learned
+**Player 1**: Stuck at the first door for 5 minutes. Didn't know they had to hold the key.
+**Player 2**: Got lost in the dark. "Is my monitor off?"
+**Player 3**: Laughed at the ghost. "She looks like a potato sack."
 
-- Tester stuck ngay tutorial (not clear enough)
-- Nobody hiểu ritual mechanic without explanation
-- Spirit AI quá aggressive → frustration not fear
-- Lighting quá dark, can't see path
-- Audio mixing: Music drown out ambient
+## Key Findings
 
-**Pain. Physical pain watching them struggle.**
+1. **Too Dark**: What looks atmospheric on my calibrated monitor is pitch black on others.
+2. **Unclear UI**: The interaction dot is too small.
+3. **Pacing**: The intro is too slow. They got bored before the first scare.
+4. **Bugs**: One player fell through the floor.
 
-## Best Feedback
+## The Feeling
 
-"Atmosphere tuyệt vời, nhưng gameplay confusing"
+It hurts.
+You spend months building something, thinking it's obvious.
+Then you watch someone struggle to open a door.
 
-## Action Items
+## The Lesson
 
-20+ bugs logged. Back to work.
+**I am not the player.**
+I know the code, I know the secrets. They don't.
+The game needs to be 50% more intuitive and 20% brighter.
 
-**This is why playtesting matters.**
+**Back to the drawing board.**

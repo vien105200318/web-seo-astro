@@ -1,33 +1,41 @@
 ---
-title: "Expanding Scope: Night 2 Development Begins"
-description: "Quyết định expand từ vertical slice sang  multi-night game"
-pubDate: 2024-06-08
-tags: ["expansion", "scope", "development"]
+title: "Expanding Scope - A Dangerous Decision"
+description: "Deciding to add more mechanics and story chapters"
+pubDate: 2024-06-10
+tags: ["scope", "design", "decision"]
 image: "/images/blog/028-cover.jpg"
 ---
 
-# Expanding To Full Game
+# Expanding Scope - A Dangerous Decision
 
-## Decision Time
+## The Temptation
 
-Ver slice thành công. Feedback tốt. Giờ phải quyết định:
+With the vertical slice working and good feedback, I got confident.
+"Maybe I should add a second village?"
+"Maybe add a combat system?"
+"Maybe add voice acting?"
 
-**Option A**: Polish slice, release as short game
-**Option B**: Expand to full 5-night experience
+## Scope Creep
 
-Chọn B. All in.
+This is how projects die.
+But some expansions are necessary.
 
-## Night 2 Design
+## The Decision
 
-- New location: Làng marketplace
-- New spirit type: Ma trơi (hungry ghost)
-- New mechanic: Offering food ritual
-- Story: Deeper into bà nội's past
+**Rejected**:
+- Combat (changes genre).
+- Second village (too much art).
 
-## Timeline
+**Accepted**:
+- **Voice Acting**: Adds immense immersion.
+- **More Rituals**: 1 is boring, need 3 variations.
+- **Extended Story**: From 3 nights to 5 nights.
 
-Estimate: 3 tháng/night × 4 nights = 12 tháng thêm.
+## The Cost
 
-Total: ~18 tháng from start to finish.
+This adds ~2 months to the timeline.
+Launch moved from August to October (Halloween).
+Risky? Yes.
+Worth it? For quality, yes.
 
-**Scary commitment. But let's go.**
+**I am doubling down.**

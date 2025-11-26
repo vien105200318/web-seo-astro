@@ -1,37 +1,46 @@
 ---
-title: "Burnout Wave 1: Khi Động Lực Cạn Kiệt"
-description: "4 tháng non-stop dev, cơ thể và tâm trí bắt đầu phản kháng"
-pubDate: 2024-05-24
-tags: ["burnout", "mental health", "struggle"]
+title: "Burnout Wave 1 - Hitting the Wall"
+description: "The first major mental crash and how I dealt with it"
+pubDate: 2024-05-22
+tags: ["mental health", "burnout", "solo dev"]
 image: "/images/blog/026-cover.jpg"
 ---
 
-# Burnout Làn Sóng Thứ Nhất
+# Burnout Wave 1 - Hitting the Wall
+
+## The Crash
+
+For 3 months, I worked 12 hours a day (freelance + game).
+Last Tuesday, I opened Unity and just stared at it.
+I couldn't click anything. My brain felt like fog.
+I felt... disgusted by my own game.
 
 ## Symptoms
 
-- Mở Unity không muốn làm gì
-- Code 30 phút đã mệt
-- Irritable với bugs nhỏ
-- Sleep không đủ giấc
-- Không enjoy process nữa
+- Irritability.
+- No motivation.
+- Physical fatigue.
+- "Why am I doing this?" thoughts returned.
 
-## Red Flags Ignored
+## The Cause
 
-Cứ push through. "Grind culture" toxic mindset.
+**Lack of rest.**
+I treated this as a sprint, but it's a marathon.
+I cut sleep, cut social life, cut exercise.
+The debt came due.
 
-## Breaking Point
+## The Recovery
 
-Ngồi trước màn hình 4 hours, viết được 0 dòng code.
+I forced myself to take 5 days off.
+- No Unity.
+- No Gamedev YouTube.
+- Went back to hometown, visited parents.
+- Touched grass (literally).
 
-## Recovery
+## The Return
 
-**Nghỉ 1 tuần. Hoàn toàn không động vào game.**
+Coming back today.
+The disgust is gone. I see the project with fresh eyes.
+I see bugs, but I also see potential.
 
-Đi chơi, gặp bạn bè, read books, sleep 9h/night.
-
-## Return
-
-Quay lại với fresh eyes. Productivity tăng gấp đôi.
-
-**Lesson: Rest is productivity.**
+**New Rule**: Sundays are OFF. No exceptions.

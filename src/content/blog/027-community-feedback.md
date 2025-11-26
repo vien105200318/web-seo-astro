@@ -1,34 +1,41 @@
 ---
-title: "Community Feedback: Posting To Reddit"
-description: "Share gameplay footage lần đầu trên r/gamedev và r/indiegames"
+title: "Community Feedback - Opening the Door"
+description: "Posting the first screenshots to social media"
 pubDate: 2024-06-01
-tags: ["community", "feedback", "marketing"]
+tags: ["marketing", "community", "social media"]
 image: "/images/blog/027-cover.jpg"
 ---
 
-# Going Public
+# Community Feedback - Opening the Door
 
-## The Post
+## The Fear of Sharing
 
-Recorded 2-minute gameplay, posted trên reddit với title:
-"Solo dev making Vietnamese horror game - would love feedback!"
+I kept the game secret. "It's not ready."
+But marketing needs to start early.
 
-## Response
+## The First Post
 
-- 500+ upvotes
-- 80+ comments
-- Mostly positive!
-- Some constructive criticism
-- DMs từ Việt people excited về cultural representation
+Posted a screenshot of the altar room on:
+- Facebook (Vietnam Game Dev Group).
+- Twitter (#screenshotsaturday).
+- Reddit (r/indiegames).
 
-## Best Comments
+## The Response
 
-"Finally, ma quỷ Việt được represent!"
-"Atmosphere on point"
-"When can I play this?"
+**Facebook**:
+- "Wow, looks like my grandma's house."
+- "Finally a VN horror game that looks decent."
+- "When release?"
+- 500 likes!
 
-## Motivation Boost
+**Reddit**:
+- "Nice atmosphere."
+- "Is this Unreal?" (Best compliment ever since it's Unity).
 
-Instant fuel. Knowing people actually interested → năng lượng quay lại.
+## Validation
 
-**Sharing journey = accountability + support.**
+It's real now. People know about it.
+The positive comments fueled my tank.
+The negative ones ("Lighting too dark") were useful.
+
+**I have an audience.**

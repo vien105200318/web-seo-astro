@@ -10,8 +10,8 @@ interface Props {
 
 const { title, description, pubDate, tags, slug, image } = Astro.props;
 
-// Format date in Vietnamese
-const formattedDate = new Intl.DateTimeFormat('vi-VN', {
+// Format date in English
+const formattedDate = new Intl.DateTimeFormat('en-US', {
   year: 'numeric',
   month: 'long',
   day: 'numeric'
@@ -30,7 +30,7 @@ const formattedDate = new Intl.DateTimeFormat('vi-VN', {
       <div class="card-meta">
         <time datetime={pubDate.toISOString()}>{formattedDate}</time>
         <span class="separator">•</span>
-        <span class="reading-time">5 phút đọc</span>
+        <span class="reading-time">5 min read</span>
       </div>
       
       <h3 class="card-title">{title}</h3>

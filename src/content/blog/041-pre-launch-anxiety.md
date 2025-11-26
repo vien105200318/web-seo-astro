@@ -1,29 +1,37 @@
 ---
-title: "Pre-Launch Anxiety: The Wait Is Killing Me"
-description: "1 tuần trước launch - cảm xúc hỗn loạn"
-pubDate: 2024-10-05
-tags: ["launch", "anxiety", "emotions"]
+title: "Pre-Launch Anxiety - The Longest Week"
+description: "The mental struggle before pressing the 'Release' button"
+pubDate: 2024-10-25
+tags: ["launch", "anxiety", "mental health"]
 image: "/images/blog/041-cover.jpg"
 ---
 
-# Pre-Launch Week
+# Pre-Launch Anxiety - The Longest Week
 
-## Countdown: 7 Days
+## 7 Days to Launch
 
-Game submitted. Steam reviewing. Nothing to do but wait.
-
-## Thoughts Racing
-
-- Will anyone buy?
-- Will reviews be good?
-- Did I miss critical bugs?
-- Is cultural representation accurate enough?
-- Will Vietnamese community support?
+I can't sleep.
+Every time I close my eyes, I see bugs.
+What if the save system breaks?
+What if streamers hate it?
+What if no one buys it?
 
 ## Imposter Syndrome Returns
 
-"18 tháng mất vào project này. What if nobody cares?"
+"It's just a small indie game."
+"It's not good enough."
+"You are going to embarrass yourself."
 
-Sleep: 4h/night.
+## Coping Mechanism
 
-**Most stressful week of entire journey.**
+I cleaned my apartment. Twice.
+I walked 10km a day.
+I re-read the positive beta feedback.
+
+## The Button
+
+Steam backend says: "Release App".
+It's greyed out until Oct 31st.
+It's staring at me.
+
+**Just breathe.**

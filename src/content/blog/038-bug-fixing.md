@@ -1,30 +1,36 @@
 ---
-title: "Bug Fixing Marathon: 200 Bugs To Ship"
-description: "3 tuần chỉ fix bugs - tedious nhưng necessary"
-pubDate: 2024-08-24
-tags: ["bugs", "testing", "quality"]
+title: "Bug Fixing - The Hydra"
+description: "Fix one bug, two more appear"
+pubDate: 2024-08-25
+tags: ["bugfix", "coding", "qa"]
 image: "/images/blog/038-cover.jpg"
 ---
 
-# The Bug Hunt
+# Bug Fixing - The Hydra
 
-## Bug Count: 200+
+## The List
 
-From playtesters, personal testing, edge cases.
+Jira backlog: 142 bugs.
 
-Categories:
-- Critical (game breaking): 15
-- Major (immersion breaking): 45  
-- Minor (annoying): 140
+## The Funny Ones
 
-## Strategy
+- Ghost gets stuck in the toilet.
+- Player can walk through the altar.
+- Grandma's photo turns upside down randomly.
 
-Tackle critical first. Then major. Minor nếu còn time.
+## The Critical Ones
 
-## 3 Weeks Later
+- Save file corruption.
+- Game freezes if you light incense too fast.
+- Falling out of the world.
 
-Critical: 0
-Major: 3 (acceptable)
-Minor: 20 (shippable)
+## The Process
 
-**Game stable. Ready for beta.**
+Reproduce -> Isolate -> Fix -> Verify.
+Repeat 142 times.
+
+## The Feeling
+
+It's not creative. It's janitorial work.
+But cleaning up the code makes the game feel "solid".
+Zero crash policy.

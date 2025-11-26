@@ -1,6 +1,6 @@
 ---
-title: "Game Design Document - Biến Ý Tưởng Thành Hệ Thống"
-description: "Xây dựng GDD chi tiết: mechanics, systems, và core gameplay loop"
+title: "Game Design Document - Turning Ideas Into Systems"
+description: "Building a detailed GDD: mechanics, systems, and core gameplay loop"
 pubDate: 2024-01-22
 tags: ["game design", "GDD", "mechanics"]
 image: "/images/blog/005-cover.jpg"
@@ -8,88 +8,88 @@ image: "/images/blog/005-cover.jpg"
 
 # Game Design Document
 
-## Tại Sao Cần GDD?
+## Why Need a GDD?
 
-Làm solo dev không có nghĩa là làm lung tung. Tôi cần một bản plan rõ ràng, nếu không sẽ lạc mất giữa đường.
+Being a solo dev doesn't mean working chaotically. I need a clear plan, otherwise I'll get lost along the way.
 
 ## Core Gameplay Loop
 
 ```
-Khám phá làng → Thu thập manh mối → Tương tác với linh hồn →
-Giải puzzle dựa trên văn hóa dân gian → Tiến triển story →
-Unlock khu vực mới → Repeat
+Explore village → Gather clues → Interact with spirits →
+Solve puzzles based on folklore → Progress story →
+Unlock new area → Repeat
 ```
 
 ## Main Mechanics
 
-### 1. Exploration (Khám Phá)
-- **First-person perspective**: Tăng immersion
-- **Limited visibility**: Sương mù, đèn dầu tầm ngắn
-- **Environmental storytelling**: Quan sát để hiểu câu chuyện
-- **Hidden paths**: Phát hiện lối đi bí mật qua manh mối
+### 1. Exploration
+- **First-person perspective**: Increases immersion.
+- **Limited visibility**: Fog, short-range oil lamp.
+- **Environmental storytelling**: Observe to understand the story.
+- **Hidden paths**: Discover secret paths via clues.
 
-### 2. Investigation (Điều Tra)
-- **Photo mode**: Chụp ảnh bằng máy ảnh film cũ
-- **Journal system**: Ghi chép suy luận
-- **Item examination**: Xem kỹ vật phẩm, đọc thông tin
-- **Dialogue**: Hỏi han NPC, ghi nhớ thông tin
+### 2. Investigation
+- **Photo mode**: Take photos with an old film camera.
+- **Journal system**: Record deductions.
+- **Item examination**: Inspect items closely, read info.
+- **Dialogue**: Ask NPCs, remember information.
 
-### 3. Ritual System (Nghi Lễ)
-**ĐÂY LÀ CORE MECHANIC ĐỘC ĐÁO**
+### 3. Ritual System
+**THIS IS THE UNIQUE CORE MECHANIC**
 
-Player phải thực hiện các nghi lễ dân gian:
-- **Cúng cô hồn**: Đặt đúng vật phẩm, đúng vị trí, đúng giờ
-- **Đốt vàng mã**: Mini-game fold giấy
-- **Thắp hương**: Số lượng, vị trí quan trọng
-- **Niệm chú**: Rhythm-based input
+Player must perform folk rituals:
+- **Offering to wandering souls**: Place correct items, correct position, correct time.
+- **Burning votive paper**: Paper folding mini-game.
+- **Lighting incense**: Number and position matter.
+- **Chanting**: Rhythm-based input.
 
-**Sai có thể attract aggressive spirits!**
+**Mistakes can attract aggressive spirits!**
 
-### 4. Spirit Interaction (Tương Tác Linh Hồn)
-- **Peaceful spirits**: Cho quest, thông tin
-- **Aggressive spirits**: Phải pacify hoặc tránh
-- **Detection**: Linh hồn phát hiện qua ánh sáng, tiếng động, thời gian
+### 4. Spirit Interaction
+- **Peaceful spirits**: Give quests, information.
+- **Aggressive spirits**: Must pacify or avoid.
+- **Detection**: Spirits detect via light, sound, time.
 
 ### 5. Stealth & Evasion
-Không có combat! Player yếu thế:
-- **Hide**: Trốn trong tủ, gầm giường, sau bàn thờ
-- **Distraction**: Ném vật, tạo tiếng động
-- **Prayer beads**: Limited use, tạm thời repel spirits
-- **Holding breath**: Khi spirit ở gần
+No combat! Player is vulnerable:
+- **Hide**: Hide in closets, under beds, behind altars.
+- **Distraction**: Throw objects, create noise.
+- **Prayer beads**: Limited use, temporarily repel spirits.
+- **Holding breath**: When spirit is near.
 
 ## Progression Systems
 
 ### Character
-- **No levels**: Progression qua story và items
-- **Stamina bar**: Chạy, crouch, hold breath
-- **Sanity meter**: Gặp nhiều ma → mất sanity → hallucinations
+- **No levels**: Progression via story and items.
+- **Stamina bar**: Run, crouch, hold breath.
+- **Sanity meter**: Encounter many ghosts → lose sanity → hallucinations.
 
 ### Items
-- **Hương (Incense)**: Repel yếu spirits
-- **Phù (Talisman)**: Bảo vệ tạm thời
-- **Đèn lồng**: Light source, consumption-based
-- **Máy ảnh**: Capture evidence
-- **Chuỗi hạt**: Prayer beads, limited charges
+- **Incense**: Repel weak spirits.
+- **Talisman**: Temporary protection.
+- **Lantern**: Light source, consumption-based.
+- **Camera**: Capture evidence.
+- **Prayer beads**: Limited charges.
 
 ## Game Structure
 
 **5 Nights System** (inspired by FNAF but different)
-- Mỗi night = 1 chapter story
-- Thời gian real-time: 23h → 1h (10 phút gameplay)
-- Objective mỗi đêm khác nhau
-- Survival ít quan trọng hơn completing rituals
+- Each night = 1 story chapter.
+- Real-time: 11 PM → 1 AM (10 minutes gameplay).
+- Different objective each night.
+- Survival less important than completing rituals.
 
 ## Technical Specs
 
-- **Engine**: Unity (quyết định sau khi cân nhắc UE5)
-- **Graphics**: Low-poly nhưng atmospheric
-- **Audio**: Binaural 3D sound (CỰC QUAN TRỌNG!)
-- **Platform**: PC first, có thể port console sau
+- **Engine**: Unity (decided after considering UE5).
+- **Graphics**: Low-poly but atmospheric.
+- **Audio**: Binaural 3D sound (EXTREMELY IMPORTANT!).
+- **Platform**: PC first, maybe console port later.
 
 ## Risks & Concerns
 
-❌ **Ritual mechanics có quá phức tạp không?**
-❌ **Player nước ngoài có hiểu văn hóa Việt?**
-❌ **Scope quá lớn cho solo dev?**
+❌ **Are ritual mechanics too complex?**
+❌ **Will foreign players understand Vietnamese culture?**
+❌ **Is the scope too big for a solo dev?**
 
-GDD đã xong 70 trang. Tôi tự hào nhưng cũng... sợ. **Liệu tôi có thể biến nó thành hiện thực?**
+GDD is 70 pages done. I'm proud but also... scared. **Can I make this a reality?**

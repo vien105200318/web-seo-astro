@@ -1,50 +1,48 @@
 ---
-title: "AI Spirit Behavior: Making Ghosts Feel Alive"
-description: "Lập trình hành vi cho linh hồn - cân bằng scary và fair"
-pubDate: 2024-04-05
-tags: ["AI", "spirit", "behavior"]
+title: "AI Spirit Behavior - Not Just Chasing"
+description: "Coding AI that stalks rather than attacks"
+pubDate: 2024-04-10
+tags: ["ai", "coding", "gameplay"]
 image: "/images/blog/019-cover.jpg"
 ---
 
-# AI Spirit Behavior
+# AI Spirit Behavior - Not Just Chasing
 
-## Challenge: Smart Enough To Be Scary, Not Unfair
+## The Problem with Chasing
 
-Spirit cần:
-- Unpredictable nhưng consistent
-- Scary nhưng escapable
-- Reactive to player actions
+Standard horror AI: See player → Run at player → Kill.
+Boring. Predictable.
 
-## Behavior States
+## The "Stalker" AI
 
-### Idle/Patrol
-- Wander trong khu vực designated
-- Ambient sounds (breathing, whispers)
-- Không aggressive
+I want the ghost (Miss Nam) to be unsettling.
 
-### Investigate
-- Hear player noise → đến check
-- Search pattern realistic
-- Có thể give up
-
-### Chase
-- Player spotted / made too much noise
-- Fast nhưng marathon không bằng player sprint
-- Lose line of sight → switch to investigate
-
-### Ritual State
-- Nếu player đang làm ritual correct
-- Spirit calms down gradually
-- Eventually disappear hoặc become friendly
+### States
+1. **Idle**: Invisible, wandering waypoints.
+2. **Stalk**: Teleport to a location *behind* player or *just out of view*.
+3. **Observe**: Watch player from distance. If player looks → Vanish.
+4. **Warn**: If player breaks taboo → Audio warning, lights flicker.
+5. **Punish**: Only attack if warnings ignored.
 
 ## Implementation
 
-State machine với transitions based on:
-- Distance to player
-- Line of sight
-- Player noise level (movement + actions)
-- Ritual progress
+Used **NavMesh** for movement.
+But added a "Visibility Manager":
+- `OnBecameVisible`: If camera sees ghost, trigger vanish timer.
+- `Teleport`: Find point on NavMesh behind player camera.
 
-**Tuning AI behavior = 2 weeks nightmare**
+## The "Weeping Angel" Effect
 
-Nhưng khi playtest và thấy tester genuinely scared → priceless.
+Implemented a mechanic where she only moves when you DON'T look.
+- Raycast check every frame.
+- If seen: Stop moving (or vanish).
+- If not seen: Move closer.
+
+## Result
+
+I was testing the "Stalk" state.
+I turned around in game. She was standing there, under the banyan tree, just looking.
+I didn't code a jumpscare. She just stood there.
+My heart skipped a beat.
+
+**Unpredictability is the key to horror.**

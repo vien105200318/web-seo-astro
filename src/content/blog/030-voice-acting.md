@@ -1,32 +1,40 @@
 ---
-title: "Voice Acting: Finding The Right Voices"
-description: "Tìm voice actors cho NPCs và spirits - surprisingly affordable"
-pubDate: 2024-06-22
-tags: ["voice acting", "audio", "production"]
+title: "Voice Acting - Finding the Voices"
+description: "Working with voice actors to bring characters to life"
+pubDate: 2024-06-25
+tags: ["audio", "voice acting", "production"]
 image: "/images/blog/030-cover.jpg"
 ---
 
-# Voice Acting Production
+# Voice Acting - Finding the Voices
 
-## Need
+## Why Voice?
 
-Game cần voices cho:
-- Grandma (flashback)
-- Spirit NPCs  
-- Player internal thoughts (minimal)
+Reading text in horror breaks immersion.
+Hearing a whisper in Vietnamese "Cháu ơi..." (Grandchild...) is terrifying.
 
-## Finding Talent
+## Casting
 
-- Fiverr: Affordable Vietnamese voice actors
-- Friends/family: Một số dialogue nhỏ
-- Myself: Whispers, processed sounds
+I needed:
+1. **Minh (Protagonist)**: Young, anxious.
+2. **Grandmother**: Old, raspy, kind but eerie.
 
-## Direction
+Posted on a VN voice acting Facebook group.
+Budget: Low.
+Passion: High.
 
-Cho script + context. Let actors improvise emotion.
+## The Recording
 
-## Result
+Found two amazing students.
+Recorded via Discord (they had home studios).
 
-Voices thêm huge layer of authenticity. Nghe tiếng Việt trong horror game hits different.
+**Direction**:
+"Don't sound like reading. Sound like you are trembling."
+"Grandma, sound like you are in pain but trying to hide it."
 
-**Worth every đồng.**
+## Implementation
+
+Added the files.
+Hearing "Bà ơi, bà đâu rồi?" (Grandma, where are you?) in the dark game...
+Chills.
+This was the best investment so far.

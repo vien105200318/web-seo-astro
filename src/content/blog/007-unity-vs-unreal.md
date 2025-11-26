@@ -1,98 +1,98 @@
 ---
-title: "Unity vs Unreal: Cuộc Chiến Chọn Engine"
-description: "Quyết định quan trọng nhất: Chọn game engine nào cho dự án?"
+title: "Unity vs Unreal: The Engine War"
+description: "The most important decision: Which game engine to choose?"
 pubDate: 2024-02-03
-tags: ["technical", "unity", "unreal", "quyết định"]
+tags: ["technical", "unity", "unreal", "decision"]
 image: "/images/blog/007-cover.jpg"
 ---
 
-# Unity vs Unreal: Cuộc Chiến Chọn Engine
+# Unity vs Unreal: The Engine War
 
-## Bắt Đầu Coding... Nhưng Dùng Gì?
+## Starting Coding... But With What?
 
-Sau khi vượt qua crisis, vấn đề đầu tiên: **Chọn engine**.
+After overcoming the crisis, the first problem: **Choosing an engine**.
 
 ## Unreal Engine 5
 
-### Ưu Điểm
-✅ **Graphics đỉnh cao**: Lumen, Nanite - technology tương lai
-✅ **Blueprint**: Visual scripting, dễ prototype
-✅ **Marketplace assets**: Quality cao
-✅ **Lighting**: Realistic, perfect cho atmospheric horror
-✅ **Free**: Chỉ mất % khi revenue > $1M (lol, I wish)
+### Pros
+✅ **Top-tier Graphics**: Lumen, Nanite - future technology.
+✅ **Blueprint**: Visual scripting, easy to prototype.
+✅ **Marketplace assets**: High quality.
+✅ **Lighting**: Realistic, perfect for atmospheric horror.
+✅ **Free**: Only pay % when revenue > $1M (lol, I wish).
 
-### Nhược Điểm
-❌ **Heavy**: PC yếu của tôi sẽ chết
-❌ **C++**: Khó hơn C#
-❌ **Build size**: Vài chục GB cho simple game
-❌ **Learning curve**: Dốc như núi
-❌ **Overkill**: Cho project scope của tôi
+### Cons
+❌ **Heavy**: My weak PC will die.
+❌ **C++**: Harder than C#.
+❌ **Build size**: Tens of GB for simple game.
+❌ **Learning curve**: Steep as a mountain.
+❌ **Overkill**: For my project scope.
 
 ## Unity
 
-### Ưu Điểm
-✅ **C#**: Tôi quen rồi
-✅ **Lighter**: Laptop cũ chạy được
-✅ **Asset Store**: Nhiều affordable assets
-✅ **Community**: Tutorial Việt nhiều
-✅ **Faster iteration**: Quick build, test, iterate
-✅ **Perfect cho indie**: Proven track record (Outlast, Firewatch...)
+### Pros
+✅ **C#**: I'm already familiar.
+✅ **Lighter**: Old laptop can handle it.
+✅ **Asset Store**: Many affordable assets.
+✅ **Community**: Many Vietnamese tutorials.
+✅ **Faster iteration**: Quick build, test, iterate.
+✅ **Perfect for indie**: Proven track record (Outlast, Firewatch...).
 
-### Nhược Điểm
-❌ **Graphics**: Không đẹp bằng UE5
-❌ **Lighting**: Phải tweak nhiều
-❌ **Reputation**: Sau scandal pricing (đã fix)
-❌ **Built-in render pipeline**: Confusing choices (URP, HDRP, Built-in)
+### Cons
+❌ **Graphics**: Not as beautiful as UE5.
+❌ **Lighting**: Needs lots of tweaking.
+❌ **Reputation**: After pricing scandal (fixed).
+❌ **Built-in render pipeline**: Confusing choices (URP, HDRP, Built-in).
 
 ## Godot?
 
-Cũng cân nhắc nhưng:
-- Ít tutorial cho 3D horror
-- Eco-system nhỏ
-- Chưa mature cho project lớn
+Considered it too but:
+- Few tutorials for 3D horror.
+- Small ecosystem.
+- Not mature enough for large project.
 
-## Quyết Định
+## Decision
 
-**UNITY** - Vì những lý do pragmatic:
+**UNITY** - For pragmatic reasons:
 
-1. **Tôi biết C# rồi** - Tiết kiệm thời gian học
-2. **Laptop cũ chịu được** - Quan trọng khi broke
-3. **Asset Store** - Có thể buy assets để bù skill thiếu
-4. **Version 2022 LTS** - Stable, đủ features
+1. **I know C# already** - Save learning time.
+2. **Old laptop can handle it** - Important when broke.
+3. **Asset Store** - Can buy assets to compensate for lack of skill.
+4. **Version 2022 LTS** - Stable, enough features.
 
 ## Technical Stack
 
-Sau 2 tuần research:
+After 2 weeks of research:
 - **Unity 2022.3 LTS**
-- **URP** (Universal Render Pipeline) - Balance performance/quality
-- **Cinemachine** - Camera system
-- **Post Processing** - Atmospheric effects
-- **Timeline** - Cutscenes
-- **TextMeshPro** - UI text
+- **URP** (Universal Render Pipeline) - Balance performance/quality.
+- **Cinemachine** - Camera system.
+- **Post Processing** - Atmospheric effects.
+- **Timeline** - Cutscenes.
+- **TextMeshPro** - UI text.
 
-## Học Gì?
+## What to Learn?
 
-Roadmap 2 tháng:
-1. Week 1-2: Unity basics, URP setup
-2. Week 3-4: 3D character controller
-3. Week 5-6: Lighting & atmosphere
-4. Week 7-8: Audio system & horror mechanics
+2-month roadmap:
+1. Week 1-2: Unity basics, URP setup.
+2. Week 3-4: 3D character controller.
+3. Week 5-6: Lighting & atmosphere.
+4. Week 7-8: Audio system & horror mechanics.
 
-YouTube channels follow:
-- Brackeys (RIP, but archive still gold)
-- Code Monkey
-- Blackthornprod
-- Sebastian Lague
+YouTube channels to follow:
+- Brackeys (RIP, but archive still gold).
+- Code Monkey.
+- Blackthornprod.
+- Sebastian Lague.
 
 ## Install Day
 
-Ngày install Unity lần đầu:
-- Download: 3.5 GB
-- Install: 12 GB
-- Additional modules: 8 GB
+Day of installing Unity for the first time:
+- Download: 3.5 GB.
+- Install: 12 GB.
+- Additional modules: 8 GB.
 
-**Laptop quạt chạy như máy bay. Nhưng đã sẵn sàng.**
+**Laptop fan running like a jet engine. But ready.**
 
-Mở Unity lần đầu, nhìn empty scene, trắng tinh.
+Opened Unity for the first time, looking at empty scene, pure white.
 
-**This is it. Hành trình thực sự bắt đầu từ đây.**
+**This is it. The journey truly starts here.**

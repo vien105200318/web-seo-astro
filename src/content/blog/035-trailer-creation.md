@@ -1,32 +1,35 @@
 ---
-title: "Trailer Creation: Selling The Atmosphere"
-description: "Học video editing để tạo announcement trailer"
-pubDate: 2024-07-27
-tags: ["trailer", "marketing", "video"]
+title: "Trailer Creation - The Art of the Cut"
+description: "Editing the gameplay trailer to build hype"
+pubDate: 2024-08-01
+tags: ["marketing", "trailer", "video"]
 image: "/images/blog/035-cover.jpg"
 ---
 
-# Making The Trailer
+# Trailer Creation - The Art of the Cut
 
-## Challenge
+## Structure
 
-Showcase atmosphere KHÔNG spoil story.
+1. **Hook (0-5s)**: Intense scare.
+2. **Atmosphere (5-20s)**: Slow pans of the village.
+3. **Action (20-40s)**: Rituals, running, hiding.
+4. **Climax (40-50s)**: Fast cuts, noise.
+5. **Title Drop**.
 
-## Approach
+## Music
 
-- 60 seconds
-- No dialogue
-- Show environment, ritual mechanic, spirit encounter
-- Vietnamese text overlays
-- Creepy music build-up
+Used a custom track: Traditional flute mixed with industrial drone.
+The contrast is unsettling.
 
-Tools: DaVinci Resolve (free version).
+## Editing Software
+
+DaVinci Resolve (Free version is amazing).
 
 ## Reception
 
-Posted trên YouTube + Reddit:
-- 10K views trong 3 days
-- Comments: "This looks amazing!"
-- Wishlists spiked +500
-
-**Good trailer = best marketing.**
+Posted to YouTube.
+"The sound design is crazy."
+"Finally a game about Vietnam."
+Views: 5,000.
+Wishlists spiked.
+Marketing works.

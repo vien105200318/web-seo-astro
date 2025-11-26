@@ -1,30 +1,50 @@
 ---
-title: "First 3D Models: Blender Struggle Is Real"
-description: "Học Blender từ zero và modeling nhà cổ đầu tiên"
-pubDate: 2024-03-18
-tags: ["3D modeling", "blender", "assets"]
+title: "Blender 3D Modeling - Making the Village"
+description: "Learning Blender to create authentic Vietnamese assets"
+pubDate: 2024-03-25
+tags: ["art", "blender", "modeling"]
 image: "/images/blog/016-cover.jpg"
 ---
 
-# Blender: Boss Fight Đầu Tiên
+# Blender 3D Modeling - Making the Village
 
-Không mua assets được (broke remember?). Phải tự làm.
+## I am not an Artist
 
-## Week 1: Tutorial Hell
+I repeat: I am a coder. But I have no money for custom assets.
+So, **Blender Donut Tutorial**, here we go.
 
-- Blender Guru's donut tutorial
-- Grant Abbitt's modeling course
-- Học hotkeys: G (grab), S (scale), R (rotate)
+## The Asset List
 
-Brain overload. Blender UI = spaceship cockpit.
+Need to make:
+1. Traditional 3-room house (Nha ba gian).
+2. Altar (Ban tho).
+3. Incense bowl (Bat huong).
+4. Oil lamp (Den dau).
+5. Bed (Chong tre).
 
-## First Model: Bàn Thờ
+## Modeling Process
 
-Mất 8 hours. Nhìn như đồ chơi trẻ con. Nhưng:
-- Import vào Unity → it works!
-- Add texture → looks decent
-- Place in scene → feels right
+### The Altar
+- Reference: Photo of my grandma's altar.
+- Block out shapes.
+- Sculpt details (dragons on legs - failed, used texture instead).
+- Texturing: Used photos of wood, added grime and soot.
 
-**First asset created by my hands trong game của tôi.**
+### The House
+- Modular approach.
+- Wall piece, pillar piece, roof piece.
+- Assembled in Unity.
+- Roof tiles (ngoi mui hai) were a nightmare to optimize.
 
-Emotional moment.
+## Texturing
+
+Substance Painter is expensive.
+Used **Materialize** (free tool) to generate Normal/Roughness maps from photos.
+It looks... decent. "Indie charm", let's call it.
+
+## Result
+
+Imported into Unity.
+It doesn't look like AAA. It looks a bit rough.
+But it looks **Vietnamese**. The proportions, the style, it's recognizable.
+That's all I need.

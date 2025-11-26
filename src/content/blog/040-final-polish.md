@@ -1,26 +1,33 @@
 ---
-title: "Final Polish: The Last 10%"
-description: "'The last 10% takes 90% of the time' - now I understand"
-pubDate: 2024-09-21
-tags: ["polish", "final stretch", "quality"]
+title: "Final Polish - The Last 10%"
+description: "Adding the juice that makes a game feel premium"
+pubDate: 2024-09-15
+tags: ["polish", "juice", "final"]
 image: "/images/blog/040-cover.jpg"
 ---
 
-# The Final 10%
+# Final Polish - The Last 10%
 
-## What "Polish" Actually Means
+## What is Polish?
 
-- Transitions smooth
-- UI responsive
-- Audio balanced perfectly
-- Every texture clean
-- No rough edges
-- Everything FEELS good
+It's the difference between "functional" and "good".
 
-## Time Spent
+## Additions
 
-Last 10% of game = 2 tháng.
+- **Camera Shake**: Subtle shake when walking, heavy when running.
+- **Sound Reverb**: Different reverb zones (Bathroom vs Hall).
+- **Menu**: Animated background with rain.
+- **Credits**: Added photos of the real-life locations that inspired the game.
 
-90% was done. But that last 10% separates "game" from "professional game".
+## Optimization
 
-**Worth it. Players notice.**
+Final build size: 2.1 GB.
+Memory usage: 1.5 GB.
+FPS: Stable 60 on GTX 1050.
+
+## Locked
+
+I zipped the build.
+`Project_Ma_v1.0_Final_Real_Final.zip`.
+I'm not touching the code anymore.
+It's done.

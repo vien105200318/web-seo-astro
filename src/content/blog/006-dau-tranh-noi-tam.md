@@ -1,89 +1,89 @@
 ---
-title: "Đấu Tranh Nội Tâm: Liệu Tôi Có Nên Tiếp Tục?"
-description: "Khi nghi ngờ bản thân lớn hơn đam mê, khi imposter syndrome tấn công"
+title: "Internal Struggle: Should I Continue?"
+description: "When self-doubt outweighs passion, when imposter syndrome attacks"
 pubDate: 2024-01-28
-tags: ["tâm lý", "thử thách", "động lực"]
+tags: ["psychology", "challenge", "motivation"]
 image: "/images/blog/006-cover.jpg"
 ---
 
-# Đấu Tranh Nội Tâm
+# Internal Struggle
 
 ## The Dark Night of The Soul
 
-Đã 3h sáng. Tôi ngồi trước màn hình GDD, scrolling qua 70 trang mình vừa viết. Và suddenly, một câu hỏi ập xuống:
+It's 3 AM. I'm sitting in front of the GDD screen, scrolling through the 70 pages I just wrote. And suddenly, a question hits me:
 
-**"Mày nghĩ mày là ai mà làm được chuyện này?"**
+**"Who do you think you are to do this?"**
 
-## Imposter Syndrome Tấn Công
+## Imposter Syndrome Attacks
 
-Những suy nghĩ độc hại bắt đầu:
+Toxic thoughts begin:
 
-### "Tôi Không Đủ Giỏi"
-- Không phải programmer xuất sắc
-- Không phải artist chuyên nghiệp  
-- Không hiểu rõ Unity lắm
-- Chưa bao giờ ship game nào cả
+### "I'm Not Good Enough"
+- Not an excellent programmer.
+- Not a professional artist.
+- Don't understand Unity that well.
+- Never shipped a game before.
 
-### "Market Không Cần Game Này"
-- Horror game đã quá nhiều
-- Người Việt không chơi game indie
-- Nước ngoài không quan tâm văn hóa VN
-- Làm xong cũng không ai chơi
+### "Market Doesn't Need This Game"
+- Horror games are too saturated.
+- Vietnamese people don't play indie games.
+- Foreigners don't care about VN culture.
+- Even if finished, no one will play.
 
-### "Scope Quá Lớn"
-- AAA studio với 100 người còn fail
-- Solo dev mà muốn làm 3D horror?
-- Mất bao nhiêu năm? 2? 3? 5?
-- Còn sống bằng gì trong thời gian đó?
+### "Scope Too Big"
+- AAA studios with 100 people still fail.
+- Solo dev wanting to make 3D horror?
+- How many years? 2? 3? 5?
+- What to live on during that time?
 
-## Điểm Gãy
+## Breaking Point
 
-Tôi mở Trello, nhìn vào task list:
-- 200+ tasks
-- Chưa viết dòng code nào
-- Chưa model 3D nào
-- Chỉ có ý tưởng và... mơ mộng
+I open Trello, look at the task list:
+- 200+ tasks.
+- Haven't written a line of code.
+- No 3D models yet.
+- Only ideas and... daydreams.
 
-**Tôi delete toàn bộ board. Delete GDD file.**
+**I delete the entire board. Delete GDD file.**
 
-## 3 Ngày Im Lặng
+## 3 Days of Silence
 
-Tôi không động vào project. Scroll Reddit, xem Netflix, làm như project không tồn tại.
+I don't touch the project. Scroll Reddit, watch Netflix, pretend the project doesn't exist.
 
-Nhưng có điều kỳ lạ: Tôi không thể ngừng nghĩ về nó.
+But something strange: I can't stop thinking about it.
 
 ## Turning Point
 
-Ngày thứ 4, tôi đọc được một comment trên r/gamedev:
+On the 4th day, I read a comment on r/gamedev:
 
 > "Your first game will suck. Your tenth game will still suck. But if you don't start, you'll never get to game #100 that doesn't suck."
 
-Và một quote từ Miyamoto:
+And a quote from Miyamoto:
 
 > "A delayed game is eventually good, but a rushed game is forever bad."
 
-## Quyết Định Mới
+## New Decision
 
-Tôi recovery GDD file từ Recycle Bin. Mở lại Trello.
+I recover the GDD file from Recycle Bin. Reopen Trello.
 
-Nhưng lần này, mindset khác:
+But this time, a different mindset:
 
-✅ **Chấp nhận mình là newbie**: Học trong khi làm
-✅ **Giảm scope**: Focus vào vertical slice trước
-✅ **Không deadline**: Done khi done, chất lượng quan trọng hơn tốc độ
-✅ **Document journey**: Để người khác học từ sai lam của tôi
-✅ **Enjoy the process**: Kết quả không quan trọng bằng journey
+✅ **Accept being a newbie**: Learn while doing.
+✅ **Reduce scope**: Focus on vertical slice first.
+✅ **No deadline**: Done when done, quality over speed.
+✅ **Document journey**: So others learn from my mistakes.
+✅ **Enjoy the process**: Result matters less than the journey.
 
-## Bài Học
+## Lesson
 
-**Imposter syndrome sẽ luôn ở đó.** Nhưng nó chỉ là tiếng ồn. 
+**Imposter syndrome will always be there.** But it's just noise.
 
-**Điều quan trọng là hành động.**
+**What matters is action.**
 
-Ngày mai, tôi sẽ bắt đầu setup Unity project. Dù sợ. Dù nghi ngờ. Nhưng tôi sẽ bắt đầu.
+Tomorrow, I will start setting up the Unity project. Even if scared. Even if doubting. But I will start.
 
 ---
 
 *"Courage is not the absence of fear, but acting in spite of it."*
 
-**Hành trình tiếp tục.**
+**The journey continues.**

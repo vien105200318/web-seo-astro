@@ -1,36 +1,33 @@
 ---
-title: "Week 1 Results: Beyond Expectations"
-description: "Tuần đầu results và community response overwhelming"
-pubDate: 2024-10-19
-tags: ["results", "community", "success"]
+title: "Week 1 Results - The Numbers"
+description: "Sales, reviews, and statistics after the first week"
+pubDate: 2024-11-07
+tags: ["sales", "stats", "business"]
 image: "/images/blog/043-cover.jpg"
 ---
 
-# Week 1 Results
+# Week 1 Results - The Numbers
 
-## Numbers
+## Sales
 
-- 1,200 copies sold
-- Revenue: ~$15,000 (sau Steam cut)
-- 150+ reviews (95% positive)
-- "Very Positive" rating achieved
+- **Units Sold**: 1,200.
+- **Gross Revenue**: ~$10,000 (Regional pricing lowers this).
+- **Net Revenue (Est)**: ~$6,000 (After Steam cut, taxes).
 
-## Media Coverage
+## Reviews
 
-- Vietnamese gaming sites featured
-- Streamer coverage (watching people play = surreal)
-- International gaming blogs noticed
+- **Rating**: Very Positive (92%).
+- **Count**: 85 reviews.
 
-## Community
+## Analysis
 
-- Discord: 500+ members
-- Fan art appearing
-- Speedrunners already breaking game (love it)
+Better than I expected.
+Most sales from Vietnam (60%), US (15%), Thailand (10%).
+The "Vietnamese Horror" niche works.
 
-## Reality
+## ROI
 
-Revenue cover toàn bộ 18 tháng living expenses + development costs.
-
-**Financially, project = success.**
-
-Emotionally? Priceless.
+I spent ~10M VND (~$400) on assets.
+I spent 9 months of labor.
+Financially? I made minimum wage.
+Emotionally? I'm a billionaire.

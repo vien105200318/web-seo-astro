@@ -14,8 +14,8 @@ const latestPosts = sortedPosts.slice(0, 6);
 ---
 
 <Layout 
-  title="Hành Trình Phát Triển Game Kinh Dị Việt Nam"
-  description="Nhật ký của một solo developer trong hành trình tạo ra game 3D kinh dị thuần Việt"
+  title="Vietnamese Horror Game Dev Journey"
+  description="Diary of a solo developer creating a 3D Vietnamese horror game"
 >
   <Header />
   
@@ -25,15 +25,15 @@ const latestPosts = sortedPosts.slice(0, 6);
       <div class="container">
         <div class="hero-content fade-in">
           <h1 class="hero-title">
-            Hành Trình Tạo Ra<br/>
-            <span class="highlight">Game Kinh Dị Việt Nam</span>
+            Journey of Creating a<br/>
+            <span class="highlight">Vietnamese Horror Game</span>
           </h1>
           <p class="hero-description">
-            Từ ý tưởng đến thực thể - Câu chuyện của một solo developer mơ ước mang văn hóa ma quỷ Việt Nam lên màn ảnh game. 50 bài blog documenting mọi bước đi, mọi thất bại, và mọi chiến thắng.
+            From idea to reality - The story of a solo developer dreaming of bringing Vietnamese ghost culture to the gaming screen. 50 blog posts documenting every step, every failure, and every victory.
           </p>
           <div class="hero-cta">
-            <a href="/blog" class="btn btn-primary">Đọc Hành Trình</a>
-            <a href="#about" class="btn btn-secondary">Tìm Hiểu Thêm</a>
+            <a href="/blog" class="btn btn-primary">Read the Journey</a>
+            <a href="#about" class="btn btn-secondary">Learn More</a>
           </div>
         </div>
       </div>
@@ -42,7 +42,7 @@ const latestPosts = sortedPosts.slice(0, 6);
     <!-- Latest Posts -->
     <section class="latest-posts">
       <div class="container">
-        <h2 class="section-title">Bài Viết Mới Nhất</h2>
+        <h2 class="section-title">Latest Posts</h2>
         <div class="posts-grid">
           {latestPosts.map(post => (
             <BlogCard
@@ -56,7 +56,7 @@ const latestPosts = sortedPosts.slice(0, 6);
           ))}
         </div>
         <div class="view-all">
-          <a href="/blog" class="btn">Xem Tất Cả 50 Bài →</a>
+          <a href="/blog" class="btn">View All 50 Posts →</a>
         </div>
       </div>
     </section>
@@ -64,34 +64,34 @@ const latestPosts = sortedPosts.slice(0, 6);
     <!-- About Section -->
     <section id="about" class="about">
       <div class="container">
-        <h2 class="section-title">Về Dự Án</h2>
+        <h2 class="section-title">About The Project</h2>
         <div class="about-content">
           <div class="about-text">
-            <h3>Tại Sao Game Này?</h3>
+            <h3>Why This Game?</h3>
             <p>
-              Văn hóa ma quỷ Việt Nam đầy phong phú và độc đáo - từ ma đà,  cô hồn, đến con mrơi trong rừng sâu. Nhưng chưa có game nào thực sự khai thác một cách sâu sắc.
+              Vietnamese ghost culture is rich and unique - from "ma da" (water ghosts), "co hon" (wandering souls), to "ma rung" (forest spirits). Yet, few games have truly explored it in depth.
             </p>
             <p>
-              Tôi muốn thay đổi điều đó. Không chỉ tạo ra một game kinh dị, mà là một trải nghiệm văn hóa - nơi người chơi không chỉ sợ hãi, mà còn hiểu thêm về tín ngưỡng, nghi lễ, và thế giới quan của người Việt.
+              I want to change that. Not just creating a horror game, but a cultural experience - where players are not only scared but also learn about the beliefs, rituals, and worldview of Vietnamese people.
             </p>
             
-            <h3>Journey Của Solo Dev</h3>
+            <h3>Solo Dev Journey</h3>
             <p>
-              18 tháng development. Một mình. Không team, không publisher. Chỉ có đam mê, một chiếc laptop cũ, và quyết tâm.
+              18 months of development. Alone. No team, no publisher. Just passion, an old laptop, and determination.
             </p>
             <p>
-              Blog này document toàn bộ journey - từ những đêm nghi ngờ bản thân, đến moments of breakthrough, đến cuối cùng là launch day. Honest, raw, và real.
+              This blog documents the entire journey - from nights of self-doubt, to moments of breakthrough, and finally launch day. Honest, raw, and real.
             </p>
           </div>
           
           <div class="about-stats">
             <div class="stat">
               <div class="stat-number">50</div>
-              <div class="stat-label">Bài Blog</div>
+              <div class="stat-label">Blog Posts</div>
             </div>
             <div class="stat">
               <div class="stat-number">18</div>
-              <div class="stat-label">Tháng Dev</div>
+              <div class="stat-label">Months Dev</div>
             </div>
             <div class="stat">
               <div class="stat-number">1</div>
@@ -99,7 +99,7 @@ const latestPosts = sortedPosts.slice(0, 6);
             </div>
             <div class="stat">
               <div class="stat-number">∞</div>
-              <div class="stat-label">Đam Mê</div>
+              <div class="stat-label">Passion</div>
             </div>
           </div>
         </div>

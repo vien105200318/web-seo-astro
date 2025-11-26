@@ -1,0 +1,54 @@
+---
+interface Props {
+  slotId?: string;
+  format?: 'auto' | 'fluid' | 'rectangle';
+  style?: string;
+}
+
+const { 
+  slotId = "7202388855", // Updated with user provided Ad Slot ID
+  format = "auto",
+  style = "display:block"
+} = Astro.props;
+
+const isDev = import.meta.env.DEV;
+---
+
+<div class="ad-container">
+  {isDev ? (
+    <div class="ad-placeholder">
+      <span>Google AdSense Placeholder</span>
+      <small>(Ads do not show in dev mode)</small>
+    </div>
+  ) : (
+    <ins class="adsbygoogle"
+       style={style}
+       data-ad-client="ca-pub-9349409507441895"
+       data-ad-slot={slotId}
+       data-ad-format={format}
+       data-full-width-responsive="true"></ins>
+    <script is:inline>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  )}
+</div>
+
+<style>
+  .ad-container {
+    margin: var(--spacing-xl) 0;
+    text-align: center;
+    overflow: hidden;
+  }
+  
+  .ad-placeholder {
+    background: var(--color-bg-tertiary);
+    border: 2px dashed var(--color-border);
+    padding: var(--spacing-lg);
+    color: var(--color-text-muted);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100px;
+  }
+</style>

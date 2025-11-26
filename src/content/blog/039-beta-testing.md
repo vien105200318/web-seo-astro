@@ -1,27 +1,35 @@
 ---
-title: "Beta Testing: The Final Gauntlet"
-description: "Open beta với 50 testers - last chance để catch issues"
-pubDate: 2024-09-07
-tags: ["beta testing", "feedback", "final stretch"]
+title: "Beta Testing - The Final Exam"
+description: "Sending the build to 50 strangers"
+pubDate: 2024-09-05
+tags: ["beta", "testing", "feedback"]
 image: "/images/blog/039-cover.jpg"
 ---
 
-# Open Beta
+# Beta Testing - The Final Exam
 
-## 50 Testers, 2 Weeks
+## The Discord Beta
 
-Diverse group: hardcore gamers, casuals, non-gamers, Vietnamese, foreigners.
+Opened a private channel.
+Gave keys to 50 active community members.
 
-## Feedback Themes
+## The Feedback
 
-✅ Atmosphere: 9/10
-✅ Story: 8/10  
-✅ Cultural authenticity: 10/10
-⚠️ Difficulty spikes (adjusted)
-⚠️ Tutorial still confusing cho một số (improved)
+- "Scariest game I've played this year."
+- "I got lost in Night 3."
+- "The ending made me cry."
 
-## Critical Bug Found
+## The Relief
 
-Save corruption trên Night 4. NIGHTMARE. Fixed within 48h.
+They liked it.
+They actually liked it.
+The bugs reported were minor.
+The difficulty curve was mostly right.
 
-**Beta = safety net. Always do it.**
+## Final Tweaks
+
+Adjusted Night 3 difficulty (too hard).
+Added more clues for the ending.
+Fixed a typo in the credits.
+
+**Gold Master candidate ready.**

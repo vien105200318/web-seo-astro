@@ -1,29 +1,38 @@
 ---
-title: "Steam Page Setup: Going Official"
-description: "Tạo Steam page - game đang trở nên real"
-pubDate: 2024-07-20
-tags: ["steam", "marketing", "milestone"]
+title: "Steam Page - It's Official"
+description: "Setting up the store page and paying the $100 fee"
+pubDate: 2024-07-22
+tags: ["marketing", "steam", "business"]
 image: "/images/blog/034-cover.jpg"
 ---
 
-# Steam Page Live!
+# Steam Page - It's Official
 
-## The Process
+## The $100 Fee
 
-- Steam Direct fee: $100 (ouch but necessary)
-- Capsule art, screenshots, trailer
-- Write store description (tiếng Anh + Việt)
-- Set tags: Horror, Indie, Atmospheric, Singleplayer, Story Rich
+Paid the Steam Direct fee.
+It feels like a commitment ring.
 
-## Wishlist Campaign
+## Capsule Art
 
-Posted lên social media: "Wishlist để support!"
+I can't draw.
+Hired a Vietnamese artist on Fiverr for $50.
+Result: A haunting image of the grandmother's altar with a shadow behind.
+Perfect.
 
-Day 1: 50 wishlists
-Week 1: 300 wishlists
+## Description
 
-**Game đang thành real product.**
+Wrote and rewrote the "About This Game".
+Focus on:
+- Vietnamese culture.
+- Atmospheric horror.
+- Non-linear story.
 
-## Emotional Impact
+## Wishlists
 
-Seeing game trên Steam = surreal. This is actually happening.
+Launched the page.
+Day 1: 100 wishlists.
+Day 7: 500 wishlists.
+It's not viral, but it's a start.
+Every wishlist is a person waiting for my work.
+No pressure.

@@ -1,35 +1,33 @@
 ---
-title: "Dealing With Negative Feedback"
-description: "Không phải ai cũng thích game - và that's okay"
-pubDate: 2024-10-26
-tags: ["feedback", "criticism", "growth"]
+title: "Negative Feedback - Handling Criticism"
+description: "Learning not to take bad reviews personally"
+pubDate: 2024-11-10
+tags: ["feedback", "psychology", "growth"]
 image: "/images/blog/044-cover.jpg"
 ---
 
-# The 5% Negative Reviews
+# Negative Feedback - Handling Criticism
 
-## Criticism Received
+## The Bad Review
 
-- "Quá ngắn for price" (fair point)
-- "Mechanics quá niche" (cultural barrier)
-- "Not scary enough" (subjective)
-- "Performance issues" (legitimate bug)
+"Walking simulator. Boring. Refunded."
+"Too dark, can't see sh*t."
+"Puzzles make no sense."
 
 ## Initial Reaction
 
-Defensive. Want to argue. Ego hurt.
+Anger. "You just don't get it!"
+Sadness. "Maybe my game is bad."
 
-## Mature Response
+## Rationalization
 
-- Performance bug → fixed trong patch
-- Length concern → noted for next project
-- Cultural niche → đây là feature, not bug
-- Scary subjective → accept diverse tastes
+I replied to the "Too dark" review.
+"Sorry about that. Did you try the brightness slider?"
+He changed review to Positive. "Oh, didn't see it. Thanks."
 
 ## Lesson
 
-**Can't please everyone. That's normal.**
-
-95%positive là incredible. Focus on that.
-
-Criticism makes you better IF you listen without ego.
+Some criticism is valid.
+Some is just taste.
+You can't please everyone.
+Focus on the 92% who liked it.

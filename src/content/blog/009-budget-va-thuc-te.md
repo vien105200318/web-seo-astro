@@ -1,135 +1,135 @@
 ---
-title: "Budget Và Thực Tế: Làm Game Khi Broke"
-description: "Tính toán chi phí thực tế và cách survive khi làm indie game full-time"
+title: "Budget and Reality: Making Games When Broke"
+description: "Calculating real costs and how to survive when making indie game full-time"
 pubDate: 2024-02-17
-tags: ["budget", "thực tế", "tài chính"]
+tags: ["budget", "reality", "finance"]
 image: "/images/blog/009-cover.jpg"
 ---
 
-# Budget Và Thực Tế: Làm Game Khi Broke
+# Budget and Reality: Making Games When Broke
 
-## Con Voi Trong Phòng
+## The Elephant in the Room
 
-Câu hỏi mọi người tránh không hỏi: **"Mày sống bằng gì khi làm game?"**
+The question everyone avoids asking: **"What do you live on while making games?"**
 
 Time to get real.
 
-## Tình Hình Tài Chính
+## Financial Situation
 
-### Thu Nhập Hiện Tại
-- Freelance web dev: ~15M/tháng (không stable)
-- Tiết kiệm: ~80M (buffer 5-6 tháng)
-- Passive income: 0đ
+### Current Income
+- Freelance web dev: ~15M VND/month (unstable).
+- Savings: ~80M VND (5-6 months buffer).
+- Passive income: 0 VND.
 
-### Chi Phí Hàng Tháng
-- Thuê trọ: 3.5M
-- Ăn uống: 3M (cơm việt quán)
-- Di chuyển: 500K (xe bus)
-- Internet: 200K
-- Điện: 500K
-- Linh tinh: 1M
-**Total: ~9M/tháng**
+### Monthly Expenses
+- Rent: 3.5M.
+- Food: 3M (local rice shops).
+- Transport: 500K (bus).
+- Internet: 200K.
+- Electricity: 500K.
+- Misc: 1M.
+**Total: ~9M/month**
 
 ## Runway
 
-Với tiết kiệm 80M, chi 9M/tháng:
-**~9 tháng runway nếu không kiếm thêm gì**
+With 80M savings, spending 9M/month:
+**~9 months runway if earning nothing extra.**
 
-## Plan Sinh Tồn
+## Survival Plan
 
-### Phase 1: Hybrid (Tháng 1-3)
-- **Sáng**: Freelance (4h)
-- **Chiều + Tối**: Dev game (6h)
-- **Income goal**: 8-10M/tháng
-- **Game dev**: Slow nhưng stable
+### Phase 1: Hybrid (Month 1-3)
+- **Morning**: Freelance (4h).
+- **Afternoon + Evening**: Game dev (6h).
+- **Income goal**: 8-10M/month.
+- **Game dev**: Slow but stable.
 
-### Phase 2: Evaluate (Tháng 4)
-- Vertical slice done chưa?
-- Có traction không?
-- Quyết định: Continue hoặc pivot
+### Phase 2: Evaluate (Month 4)
+- Vertical slice done?
+- Any traction?
+- Decision: Continue or pivot.
 
-### Phase 3: All-in? (Tháng 5+)
-- Nếu feedback tốt: Reduce freelance, focus game
-- Nếu meh: Keep freelance, game trở thành side project
+### Phase 3: All-in? (Month 5+)
+- If feedback good: Reduce freelance, focus game.
+- If meh: Keep freelance, game becomes side project.
 
 ## Development Costs
 
 ### Essential
-- **Unity Pro**: KHÔNG CẦN (Personal free enough)
-- **3D assets**: 2-5M (Synty, Kenney, discount bundles)
-- **Sound**: 1M (Freesound + some paid packs)
-- **Music**: 500K (musician friend, license royalty-free)
-- **Software**: 500K (Blender free, Photoshop subscription)
+- **Unity Pro**: NOT NEEDED (Personal free enough).
+- **3D assets**: 2-5M (Synty, Kenney, discount bundles).
+- **Sound**: 1M (Freesound + some paid packs).
+- **Music**: 500K (musician friend, license royalty-free).
+- **Software**: 500K (Blender free, Photoshop subscription).
 **Total: ~4M**
 
 ### Nice-to-have
-- **Marketing**: 2M (trailer, presskit, ads)
-- **Localization**: 1M (nếu reach được nước ngoài)
-- **Porting**: 0đ (tự làm)
+- **Marketing**: 2M (trailer, presskit, ads).
+- **Localization**: 1M (if reaching foreigners).
+- **Porting**: 0 (do it myself).
 
 ### Total Investment
-**~6M cho vertical slice**
+**~6M for vertical slice.**
 
 ## Fundraising Options
 
-### Không Xem Xét
-- ❌ Publisher: Quá sớm, chưa có demo
-- ❌ Investor: Indie game = bad ROI
-- ❌ Loan: Nguy hiểm
+### Not Considering
+- ❌ Publisher: Too early, no demo.
+- ❌ Investor: Indie game = bad ROI.
+- ❌ Loan: Dangerous.
 
-### Có Thể
-- ✅ **Kickstarter**: Sau khi có vertical slice polished
-- ✅ **Patreon**: Document journey, early access
-- ✅ **Grants**: Viet game dev grants (if any?)
+### Possible
+- ✅ **Kickstarter**: After having polished vertical slice.
+- ✅ **Patreon**: Document journey, early access.
+- ✅ **Grants**: Viet game dev grants (if any?).
 
 ### Likely
-- ✅ **Freelance**: Keep the lights on
-- ✅ **Asset flipping**: Sell Unity assets tạo ra?
-- ✅ **Tutorial content**: YouTube, blog monetization
+- ✅ **Freelance**: Keep the lights on.
+- ✅ **Asset flipping**: Sell Unity assets created?
+- ✅ **Tutorial content**: YouTube, blog monetization.
 
 ## Worst Case Scenarios
 
-### Scenario 1: Hết tiền sau 6 tháng, game chưa xong
-→ Find full-time job, game becomes weekend project
+### Scenario 1: Out of money after 6 months, game unfinished
+→ Find full-time job, game becomes weekend project.
 
 ### Scenario 2: Vertical slice sucks
-→ Pivot to smaller game hoặc cancel
+→ Pivot to smaller game or cancel.
 
 ### Scenario 3: Family emergency
-→ Game pause, gia đình first
+→ Game pause, family first.
 
 ## Best Case Scenarios
 
 ### Scenario 1: Vertical slice viral
-→ Publisher interest, Kickstarter success
+→ Publisher interest, Kickstarter success.
 
 ### Scenario 2: Early Steam access sells
-→ Tự fund tiếp
+→ Self fund continuation.
 
 ### Scenario 3: Win grant/competition
-→ Extend runway
+→ Extend runway.
 
 ## The Bet I'm Making
 
-**I'm betting 6 months of my life + 6M đồng + career risk**
+**I'm betting 6 months of my life + 6M VND + career risk.**
 
 For:
-- A chance to make my dream game
-- Learn game dev deeply
-- Build portfolio
-- Potentially change career
+- A chance to make my dream game.
+- Learn game dev deeply.
+- Build portfolio.
+- Potentially change career.
 
 **Worth it?**
 
-Time will tell. Nhưng tôi không muốn 30 tuổi nhìn lại và nghĩ "What if?"
+Time will tell. But I don't want to be 30 looking back thinking "What if?".
 
 ## Reality Check
 
-- This is privilege: Không có family phải nuôi
-- This is risky: Stats show 90% indie games tank
-- This is selfish: Bố mẹ muốn tôi có công việc stable
+- This is privilege: No family to support.
+- This is risky: Stats show 90% indie games tank.
+- This is selfish: Parents want me to have stable job.
 
-**Nhưng đây là giấc mơ của tôi.**
+**But this is my dream.**
 
 ---
 

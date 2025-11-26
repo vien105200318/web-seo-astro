@@ -1,28 +1,38 @@
 ---
-title: "Texture Painting: Making Things Look Real"
-description: "Học PBR texturing để game nhìn professional hơn"
-pubDate: 2024-06-15
-tags: ["texturing", "art", "PBR"]
+title: "Texture Painting - PBR and Grime"
+description: "Learning Substance Painter to make things look old and haunted"
+pubDate: 2024-06-18
+tags: ["art", "texturing", "substance"]
 image: "/images/blog/029-cover.jpg"
 ---
 
-# PBR Texturing Journey
+# Texture Painting - PBR and Grime
 
-## Problem
+## Everything Looked Too Clean
 
-Models nhìn "plasticky". Thiếu depth.
+My models looked like plastic toys.
+Real horror is in the dirt, the rust, the decay.
 
-## Solution: PBR Workflow
+## Learning Substance Painter
 
-- Albedo: Base color
-- Normal: Surface details
-- Roughness: How shiny
-- AO: Ambient occlusion shadows
+Got a student license.
+The workflow:
+1. UV Unwrap in Blender (Painful).
+2. Bake maps in Substance.
+3. Paint layers.
 
-Tools: Substance Painter trial → sau đó Quixel Mixer (free).
+## The "Grime" Layer
 
-## Result
+Added:
+- Dust in crevices.
+- Water stains on wood.
+- Soot near candles.
+- Fingerprints on metal.
 
-Wood nhìn như real wood. Stone có texture. Metal reflect light correctly.
+## Before vs After
 
-**Visual quality jump 300%.**
+**Before**: A clean wooden table.
+**After**: A table that has seen 50 years of rituals, spills, and neglect.
+
+It tells a story without words.
+The game visual quality jumped from "Student Project" to "Indie Game".

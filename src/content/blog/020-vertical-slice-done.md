@@ -1,70 +1,53 @@
 ---
-title: "Milestone 1: Vertical Slice Playable!"
-description: "15 phút gameplay hoàn chỉnh đầu tiên - cảm xúc vỡ òa"
-pubDate: 2024-04-12
-tags: ["milestone", "vertical slice", "achievement"]
+title: "Vertical Slice Complete - Milestone Reached"
+description: "3 months of work culminated in a playable demo"
+pubDate: 2024-04-15
+tags: ["milestone", "vertical slice", "demo"]
 image: "/images/blog/020-cover.jpg"
 ---
 
-# Vertical Slice Playable!
+# Vertical Slice Complete - Milestone Reached
 
-## 3 Tháng Kể Từ First Commit
+## We Made It
 
-Hôm nay, lần đầu tiên, tôi có thể chơi game từ beginning đến end của vertical slice.
+It's been 3 months since I started.
+Today, I built `v0.1_VerticalSlice.exe`.
 
-## What's In The Slice
+## What's In It?
 
-- ✅ 15 phút gameplay
-- ✅ Intro cutscene (Timeline)
-- ✅ Nhà cổ với 4 rooms explorable
-- ✅ 1 complete ritual mechanic
-- ✅ 1 spirit với full AI behavior
-- ✅ Story arc từ arrival → ritual → first revelation
-- ✅ Atmospheric lighting + sound
-- ✅ No game-breaking bugs
+- **Playtime**: ~15 minutes.
+- **Content**: Intro cutscene, explore house, find key, light incense, meet Miss Nam, end demo.
+- **Graphics**: Rough but atmospheric.
+- **Sound**: Full ambience and footsteps.
+- **Bugs**: Probably many, but no crashes.
 
-## The Playthrough
+## The Walkthrough
 
-Chơi qua game của mình lần đầu end-to-end:
+I played it from start to finish.
+- The menu music kicks in (sad erhu melody).
+- The intro text sets the scene.
+- Walking into the dark house feels heavy.
+- The ritual works.
+- The ending leaves a mystery.
 
-**Minute 1-3**: Arrive at nhà cổ, explore, find clues
-**Minute 4-8**: Encounter spirit, learn about bà nội's past
-**Minute 9-13**: Gather ritual items, stealth past spirit
-**Minute 14-15**: Perform ritual, cutscene ending, teaser for more
+## Self-Review
 
-Khi ending played... **tôi lại khóc. Lần thứ 2.**
+**Good:**
+- Atmosphere is thick.
+- Sound design carries the game.
+- Ritual mechanic is unique.
 
-## It Works. It Actually Works.
+**Bad:**
+- Frame rate drops in the yard.
+- Interaction raycast sometimes misses.
+- Textures on the bed look ugly.
 
-Game không perfect:
-- Graphics đơn giản
-- Một số animations choppy
-- Audio mixing cần polish
+## What Now?
 
-Nhưng **IT FEELS LIKE A GAME.**
+I sent the build to 5 close friends.
+"Be brutal," I said. "Don't be nice."
 
-## Status Check
+Waiting for feedback.
+I'm exhausted. But I made a game. A playable piece of a game.
 
-- Timeline: 3 months (theo plan)
-- Budget spent: ~3.5M (trong budget)
-- Health: Tốt (vẫn exercise, sleep đủ)
-- Motivation: 🔥🔥🔥
-
-## Next Phase: Polish & Playtest
-
-2 tuần tới:
-- Bug fixing
-- Polish animations
-- Improve audio
-- Add particle effects
-- Prepare playtest build
-
-Then... show people. Get feedback.
-
-**Nervous as hell. But ready.**
-
----
-
-*To everyone who said solo dev can't make 3D game: Suck it. 😎*
-
-*(Respectfully, of course)*
+**Phase 1 Complete.**

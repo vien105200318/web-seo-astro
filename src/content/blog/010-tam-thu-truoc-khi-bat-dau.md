@@ -1,128 +1,128 @@
 ---
-title: "Tâm Thư Trước Khi Bắt Đầu Code"
-description: "Những suy nghĩ cuối cùng trước khi commit vào hành trình dev game"
+title: "Letter to Myself Before Coding"
+description: "Final thoughts before committing to the game dev journey"
 pubDate: 2024-02-24
-tags: ["reflection", "tâm sự", "commitment"]
+tags: ["reflection", "commitment", "letter"]
 image: "/images/blog/010-cover.jpg"
 ---
 
-# Tâm Thư Trước Khi Bắt Đầu Code
+# Letter to Myself Before Coding
 
-## 3h Sáng, Lần Nữa
+## 3 AM, Again
 
-Đây là bài viết cuối cùng trước khi tôi viết dòng code đầu tiên.
+This is the last post before I write the first line of code.
 
-## Những Gì Đã Làm (Pre-Production)
+## What's Done (Pre-Production)
 
-Nhìn lại 2 tháng qua:
-- ✓ Nghiên cứu văn hóa ma quỷ Việt Nam
-- ✓ Viết GDD 70 trang
-- ✓ Tạo concept art cơ bản
-- ✓ Xây dựng story và characters
-- ✓ Chọn Unity làm engine
-- ✓ Plan vertical slice scope
-- ✓ Tính toán budget và timeline
-- ✓ Vượt qua crisis đầu tiên
+Looking back at the last 2 months:
+- ✓ Researched Vietnamese ghost culture.
+- ✓ Wrote 70-page GDD.
+- ✓ Created basic concept art.
+- ✓ Built story and characters.
+- ✓ Chose Unity as engine.
+- ✓ Planned vertical slice scope.
+- ✓ Calculated budget and timeline.
+- ✓ Overcame first crisis.
 
-**Không có code. Không có 3D model. Chỉ có kế hoạch.**
+**No code. No 3D models. Only plans.**
 
-Nhưng đã đến lúc.
+But it's time.
 
-## Tại Sao Làm Game Này?
+## Why Make This Game?
 
-Để lại chính mình vài năm sau đọc lại, nhớ tại sao bắt đầu:
+Leaving this for myself to read years later, to remember why I started:
 
-### 1. Đam Mê Văn Hóa Việt
-Tôi muốn world biết văn hóa ma quỷ VN không thua kém ai. Ma da, cô hồn, con mrơi - chúng đáng được kể lại qua medium hiện đại.
+### 1. Passion for Vietnamese Culture
+I want the world to know VN ghost culture is second to none. Ma da, co hon, con mroi - they deserve to be told through modern medium.
 
-### 2. Thử Thách Bản Thân
-Tôi muốn biết mình có đủ endurance để hoàn thành một project lớn không. Solo dev = test cuối cùng của discipline.
+### 2. Challenge Myself
+I want to know if I have enough endurance to finish a large project. Solo dev = ultimate test of discipline.
 
-### 3. Tạo Di Sản
-Nếu thành công, đây sẽ là game mở đường cho indie VN. Nếu fail, ít nhất đã cố gắng.
+### 3. Create Legacy
+If successful, this will pave the way for VN indie. If fail, at least I tried.
 
 ### 4. Fear of Regret
-Tôi sợ 40 tuổi, ngồi văn phòng, nghĩ "What if I had tried?"
+I fear being 40, sitting in an office, thinking "What if I had tried?".
 
-## Những Gì Tôi Sợ
+## What I Fear
 
-Thật lòng? Nhiều thứ:
+Honestly? Many things:
 
-- Sợ fail sau 2 năm dev
-- Sợ hết tiền, phải bỏ dở
-- Sợ game sucks, ai cũng hate
-- Sợ không đủ skill để realize vision
-- Sợ lonely journey này quá nặng nề
-- Sợ gia đình thất vọng
-- Sợ lãng phí thời gian best years
+- Fear of failing after 2 years dev.
+- Fear of running out of money, having to quit.
+- Fear game sucks, everyone hates it.
+- Fear not enough skill to realize vision.
+- Fear this lonely journey is too heavy.
+- Fear family disappointment.
+- Fear wasting best years.
 
-**Nhưng sợ nhất là không thử.**
+**But fear most not trying.**
 
-## Cam Kết Với Bản Thân
+## Commitment to Myself
 
 From this day forward:
 
 ### About Development
-- Code ít nhất 4 hours/day
-- Document journey honestly
-- Ask for help when stuck (no toxic pride)
-- Iterate fast, fail fast
-- Quality over speed
+- Code at least 4 hours/day.
+- Document journey honestly.
+- Ask for help when stuck (no toxic pride).
+- Iterate fast, fail fast.
+- Quality over speed.
 
 ### About Health
-- Sleep 7 hours (no crunch culture bullshit)
-- Exercise 30 min/day
-- Eat properly (không chỉ mì tôm)
-- Maintain friendships
+- Sleep 7 hours (no crunch culture bullshit).
+- Exercise 30 min/day.
+- Eat properly (not just instant noodles).
+- Maintain friendships.
 
 ### About Mindset
-- Accept sẽ có bad days
-- Celebrate small wins
-- Detach ego from game
-- Open to criticism
-- Remember the why
+- Accept there will be bad days.
+- Celebrate small wins.
+- Detach ego from game.
+- Open to criticism.
+- Remember the why.
 
-## Định Nghĩa Success
+## Defining Success
 
-Success KHÔNG PHẢI là:
-- ❌ Game bán 1 triệu copies
-- ❌ Nổi tiếng
-- ❌ Làm giàu
+Success is NOT:
+- ❌ Game selling 1 million copies.
+- ❌ Being famous.
+- ❌ Getting rich.
 
-Success LÀ:
-- ✅ Ship một game hoàn chỉnh (dù nhỏ)
-- ✅ Học được skills mới
-- ✅ Tạo được emotional impact cho ít nhất vài người
-- ✅ Proud of what I made
-- ✅ No regrets về việc đã thử
+Success IS:
+- ✅ Shipping a complete game (even small).
+- ✅ Learning new skills.
+- ✅ Creating emotional impact for at least a few people.
+- ✅ Proud of what I made.
+- ✅ No regrets about trying.
 
 ## Message To Future Self
 
-_Này future me,_
+_Hey future me,_
 
-_Nếu đang đọc lại này khi struggling:_
+_If reading this when struggling:_
 
-_Remember ngày hôm nay. Remember tại sao bắt đầu. Fire trong chest khi quyết định làm game này._
+_Remember today. Remember why you started. Fire in chest when deciding to make this game._
 
-_Nếu đang muốn bỏ cuộc: It's okay. Không phải mọi journey đều phải kết thúc như ý. You tried, that's enough._
+_If wanting to quit: It's okay. Not every journey has to end as intended. You tried, that's enough._
 
-_Nếu game flop: Your worth không tie với game success. Bạn vẫn là bạn._
+_If game flops: Your worth is not tied to game success. You are still you._
 
-_Nếu game thành công: Don't let it get to your head. Stay humble. Help người khác._
+_If game succeeds: Don't let it get to your head. Stay humble. Help others._
 
-_Most importantly: Take care of yourself. Health trước game._
+_Most importantly: Take care of yourself. Health before game._
 
 ## The Beginning
 
-Đủ rồi.
+Enough.
 
-Đủ planning. Đủ dreaming. Đủ overthinking.
+Enough planning. Enough dreaming. Enough overthinking.
 
-**Giờ là lúc BUILD.**
+**Now is time to BUILD.**
 
 ---
 
-**Next post sẽ là code đầu tiên.**
+**Next post will be first code.**
 
 **Next phase: DEVELOPMENT.**
 

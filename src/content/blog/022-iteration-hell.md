@@ -1,31 +1,39 @@
 ---
-title: "Iteration Hell: Fixing Feedback"
-description: "2 tuần iteration dựa trên playtesting feedback"
-pubDate: 2024-04-27
-tags: ["iteration", "improvement", "feedback"]
+title: "Iteration Hell - Fixing What's Broken"
+description: "The grind of fixing design flaws based on feedback"
+pubDate: 2024-04-25
+tags: ["iteration", "design", "bugfix"]
 image: "/images/blog/022-cover.jpg"
 ---
 
-# Iteration Based on Feedback
+# Iteration Hell - Fixing What's Broken
 
-## Changes Made
+## The List
 
-- Tutorial: Từ text → interactive
-- Ritual UI: Visual guides thêm clear
-- Spirit AI: Giảm aggression 30%, tăng telegraph attacks
-- Lighting: Brightness +20%
-- Audio: Rebalanced mix
+Based on feedback, I have 50 items to fix.
 
-## Round 2 Playtest
+## Lighting Overhaul
 
-Same testers. Improvement rõ rệt!
+- Increased ambient light.
+- Added a "brightness slider" in settings (crucial!).
+- Added subtle rim lights to important objects so they pop out.
 
-- Completion rate: 40% → 90%
-- Average time: 22 min → 16 min (closer to target)
-- Fun rating: 6/10 → 8/10
+## UI Redesign
 
-**Still not perfect, but significantly better.**
+- Made the reticle dynamic: Expands when looking at interactables.
+- Added text prompts: "Hold [E] to Open" instead of just "Open".
+- Added a tutorial note at the start.
 
-## Lesson: Listen To Players
+## Pacing Fix
 
-Ego muốn defend choices. But players are always right về experience của họ.
+- Cut the intro text by half.
+- Moved the first scare to minute 3 instead of minute 10.
+- Added sound cues to guide players.
+
+## The Grind
+
+This isn't the fun creative part. This is the boring polish part.
+Tweaking a value, building, testing. Repeat 100 times.
+
+But the game feels **smoother**. It flows better.
+It's less "my project" and more "a product".

@@ -1,9 +1,9 @@
 export const SITE = {
-    title: 'Hành Trình Phát Triển Game Kinh Dị Việt Nam',
-    description: 'Nhật ký của một solo developer trong hành trình tạo ra game 3D kinh dị thuần Việt',
+    title: 'Vietnamese Horror Game Dev Journey',
+    description: 'Diary of a solo developer creating a 3D Vietnamese horror game',
     author: 'Solo Dev',
-    defaultLanguage: 'vi',
-    siteUrl: 'https://yoursite.com', // Update with your actual URL
+    defaultLanguage: 'en',
+    siteUrl: 'http://localhost:4321', // Update with your actual URL
 };
 
 export const BLOG = {

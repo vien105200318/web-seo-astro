@@ -1,46 +1,43 @@
 ---
-title: "Ritual Mechanic: Core Innovation"
-description: "Implement game mechanic độc đáo: Cúng bái như puzzle"
-pubDate: 2024-03-30
-tags: ["mechanics", "ritual", "innovation"]
+title: "Ritual Mechanic - The Core Gameplay"
+description: "Implementing the incense lighting and offering mechanic"
+pubDate: 2024-04-05
+tags: ["gameplay", "mechanic", "culture"]
 image: "/images/blog/018-cover.jpg"
 ---
 
-# Ritual Mechanic - Game Changer
+# Ritual Mechanic - The Core Gameplay
 
-## The Unique Selling Point
+## The Concept
 
-Player phải perform Vietnamese ritual cúng cô hồn:
+Instead of shooting zombies, you appease spirits.
+The core loop: **Identify Spirit → Find Offering → Perform Ritual**.
 
-### Step 1: Setup Altar
-- Place cloth (correct color = white for ghost)
-- Arrange items: Rice, fruit, incense, fake money
+## Implementation: Lighting Incense
 
-### Step 2: Timing
-- Must be between 23:00-01:00 (giờ Tý)
-- Moon phase matters
+1. **Interaction**: Pick up incense stick.
+2. **Lighting**: Hold near candle flame. Particle effect triggers (smoke).
+3. **Planting**: Click on incense bowl.
 
-### Step 3: Sequence
-- Light candles first (3 candles)
-- Light incense (odd number, usually 1 or 3)
-- Offer food
-- Burn joss paper
-- Bow 3 times
+**Challenge**: Hand animation.
+- My rigging skills are bad.
+- Solution: Floating hands (Rayman style) but hidden by darkness/camera angle.
 
-### Get It Wrong?
-- Spirit becomes agitated
-- Must restart
-- Attracts other spirits
+## The Offering System
 
-## Implementation Challenge
+Created a `RitualSpot` script.
+- Requires specific items (e.g., "Boiled Chicken", "Sticky Rice", "Salt").
+- Player must place items in specific slots.
+- Check logic: `if (placedItems == requiredItems) Success()`.
 
-Làm sao để cultural accuracy + fun gameplay?
+## Cultural Nuance
 
-Solution: Optional difficulty tăng dần
-- Easy: Game highlight correct items
-- Normal: Clues từ journal
-- Hard: Pure cultural knowledge
+Added a rule: **"Do not plant incense with left hand"**.
+- If player uses left hand (control key modifier), ritual fails/angers spirit.
+- Subtle cultural detail.
 
-**Playtester reaction: "Tôi cảm giác như đang thực sự cúng cô hồn!"**
+## Testing
 
-✅ Mission accomplished.
+It feels meditative yet tense.
+Lighting incense in a dark game, watching the smoke rise... it hits a primal chord in Vietnamese culture.
+It feels respectful, not just a game mechanic.

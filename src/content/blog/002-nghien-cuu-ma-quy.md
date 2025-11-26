@@ -1,44 +1,44 @@
 ---
-title: "Nghiên Cứu Ma Quỷ Việt Nam - Diving Deep"
-description: "Tìm hiểu sâu về văn hóa ma quỷ, tín ngưỡng dân gian để xây dựng nền tảng cho game"
+title: "Researching Vietnamese Ghosts - Diving Deep"
+description: "Deep diving into ghost culture and folk beliefs to build the game's foundation"
 pubDate: 2024-01-05
-tags: ["nghiên cứu", "văn hóa", "ma quỷ"]
+tags: ["research", "culture", "ghosts"]
 image: "/images/blog/002-cover.jpg"
 ---
 
-# Nghiên Cứu Ma Quỷ Việt Nam
+# Researching Vietnamese Ghosts
 
-## Tại Sao Cần Nghiên Cứu?
+## Why Research?
 
-Để tạo ra một game kinh dị Việt Nam thực sự, tôi không thể chỉ dựa vào những hiểu biết mơ hồ. Tôi cần đi sâu, cần hiểu rõ từng chi tiết về thế giới ma quỷ trong tâm thức người Việt.
+To create a truly authentic Vietnamese horror game, I can't rely on vague knowledge. I need to go deep, to understand every detail of the ghost world in the Vietnamese psyche.
 
-## Các Loại Ma Trong Văn Hóa Việt
+## Types of Ghosts in Vietnamese Culture
 
-### Ma Đà
-Linh hồn người chết đuối, lang thang tìm người thế mạng. Chúng xuất hiện gần sông, hồ, ao. Đặc điểm: da xanh tái, tóc ướt sũng, luôn nhỏ nước.
+### Ma Da (Water Ghost)
+Souls of the drowned, wandering to find a replacement. They appear near rivers, lakes, ponds. Characteristics: pale blue skin, soaking wet hair, always dripping water.
 
-### Cô Hồn
-Những người chết oan, không được siêu thoát. Thường xuất hiện vào tháng 7 âm lịch. Chúng khao khát được cúng bái, được tưởng nhớ.
+### Co Hon (Wandering Souls)
+Those who died unjustly, without salvation. Usually appear in the 7th lunar month. They crave worship and remembrance.
 
-### Ma Rừng (Con Mrơi)
-Sinh vật huyền bí trong rừng sâu Tây Nguyên. Có thể biến hình, dụ người lạc đường. Tiếng kêu như tiếng người nhưng không phải người.
+### Ma Rung (Forest Ghost / Con Mroi)
+Mystical creatures in the deep forests of the Central Highlands. Can shapeshift, lure people off the path. Their calls sound like humans but aren't human.
 
-### Ma Trơi
-Linh hồn bị bỏ đói, không được thờ cúng. Bụng to, cổ họng nhỏ như kim. Ban đêm lang thang tìm vật tế.
+### Ma Troi (Will-o'-the-wisp / Hungry Ghost)
+Starved souls, un-worshipped. Big belly, throat as small as a needle. Wandering at night looking for offerings.
 
-## Các Yếu Tố Văn Hóa Quan Trọng
+## Important Cultural Elements
 
-- **Tháng 7 âm lịch**: Tháng cô hồn, cửa địa ngục mở
-- **Giờ Ngọ - Giờ Tý**: Hai giờ giao thời, ranh giới âm dương mỏng
-- **Lễ cúng**: Hương, tiền vàng, xôi gấc, bánh trôi
-- **Cấm kỵ**: Gọi tên vào ban đêm, huýt sáo gần rừng, đi qua nghĩa địa lúc nửa đêm
+- **7th Lunar Month**: Month of ghosts, gates of hell open.
+- **Hour of the Horse - Hour of the Rat**: Two transition hours, thin boundary between yin and yang.
+- **Offerings**: Incense, votive paper, sticky rice, floating cakes.
+- **Taboos**: Calling names at night, whistling near forests, walking through graveyards at midnight.
 
-## Ứng Dụng Vào Game
+## Application in Game
 
-Tôi bắt đầu hình dung:
-- **Setting**: Một làng quê miền Bắc vào tháng 7 âm lịch
-- **Thời gian**: Đêm, từ 23h đến 1h sáng (giờ Tý)
-- **Cơ chế**: Player phải tránh gọi tên NPC, phải cúng bái đúng cách để vượt qua
-- **Atmosphere**: Tiếng chuông chùa xa xa, mùi hương, sương mù dày đặc
+I'm starting to visualize:
+- **Setting**: A Northern village in the 7th lunar month.
+- **Time**: Night, from 11 PM to 1 AM (Hour of the Rat).
+- **Mechanic**: Player must avoid calling NPC names, must perform rituals correctly to pass.
+- **Atmosphere**: Distant temple bells, smell of incense, thick fog.
 
-**Nghiên cứu này mở ra cả một vũ trụ. Tôi háo hức và cũng... lo lắng.**
+**This research opens up a whole universe. I'm excited and also... worried.**

@@ -1,24 +1,32 @@
 ---
-title: "Night 3-4 Development: Finding Rhythm"
-description: "Quy trình dev đã smooth, productivity tăng cao"
-pubDate: 2024-08-10
-tags: ["development", "productivity", "workflow"]
+title: "Development Rhythm - The Grind"
+description: "My daily routine during the final crunch"
+pubDate: 2024-08-18
+tags: ["lifestyle", "productivity", "crunch"]
 image: "/images/blog/037-cover.jpg"
 ---
 
-# Development Rhythm
+# Development Rhythm - The Grind
 
-## Workflow Optimized
+## The Schedule
 
-- Morning: Code (brain fresh)
-- Afternoon: Art/3D (creative)
-- Evening: Testing/bug fix
-- 1 day/week: Marketing, community
+- **08:00**: Wake up, coffee.
+- **09:00 - 13:00**: Coding (Hard tasks).
+- **13:00 - 14:00**: Lunch, nap.
+- **14:00 - 18:00**: Art/Level Design (Creative tasks).
+- **18:00 - 20:00**: Gym, Dinner.
+- **20:00 - 22:00**: Marketing/Community.
+- **22:00 - 23:00**: Playtesting.
 
-**Productivity gấp 2 lần đầu project.**
+## Discipline
 
-## Night 3 & 4 Developing Parallel
+No YouTube. No games.
+Phone in another room.
+Pomodoro technique (25/5).
 
-Reuse systems. Night 3 mất 2 tháng. Night 4 chỉ mất 6 tuần.
+## Is it Healthy?
 
-**Learning curve pays off.**
+Borderline.
+I'm tired. But I see the finish line.
+The game is playable from start to finish.
+Now it's just polish.
