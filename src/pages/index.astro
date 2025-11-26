@@ -1,16 +1,278 @@
 ---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import BlogCard from '../components/BlogCard.astro';
+import { getCollection } from 'astro:content';
+
+// Get latest 6 blog posts
+const allPosts = await getCollection('blog');
+const sortedPosts = allPosts.sort((a, b) => 
+  b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const latestPosts = sortedPosts.slice(0, 6);
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} >
-    <title>Astro</title>
-  </head>
-  <body>
-    <h1>Astro</h1>
-	<h1>My astro page</h1>
-  </body>
-</html>
+<Layout 
+  title="Hành Trình Phát Triển Game Kinh Dị Việt Nam"
+  description="Nhật ký của một solo developer trong hành trình tạo ra game 3D kinh dị thuần Việt"
+>
+  <Header />
+  
+  <main>
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="container">
+        <div class="hero-content fade-in">
+          <h1 class="hero-title">
+            Hành Trình Tạo Ra<br/>
+            <span class="highlight">Game Kinh Dị Việt Nam</span>
+          </h1>
+          <p class="hero-description">
+            Từ ý tưởng đến thực thể - Câu chuyện của một solo developer mơ ước mang văn hóa ma quỷ Việt Nam lên màn ảnh game. 50 bài blog documenting mọi bước đi, mọi thất bại, và mọi chiến thắng.
+          </p>
+          <div class="hero-cta">
+            <a href="/blog" class="btn btn-primary">Đọc Hành Trình</a>
+            <a href="#about" class="btn btn-secondary">Tìm Hiểu Thêm</a>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Latest Posts -->
+    <section class="latest-posts">
+      <div class="container">
+        <h2 class="section-title">Bài Viết Mới Nhất</h2>
+        <div class="posts-grid">
+          {latestPosts.map(post => (
+            <BlogCard
+              title={post.data.title}
+              description={post.data.description}
+              pubDate={post.data.pubDate}
+              tags={post.data.tags}
+              slug={post.slug}
+              image={post.data.image}
+            />
+          ))}
+        </div>
+        <div class="view-all">
+          <a href="/blog" class="btn">Xem Tất Cả 50 Bài →</a>
+        </div>
+      </div>
+    </section>
+    
+    <!-- About Section -->
+    <section id="about" class="about">
+      <div class="container">
+        <h2 class="section-title">Về Dự Án</h2>
+        <div class="about-content">
+          <div class="about-text">
+            <h3>Tại Sao Game Này?</h3>
+            <p>
+              Văn hóa ma quỷ Việt Nam đầy phong phú và độc đáo - từ ma đà,  cô hồn, đến con mrơi trong rừng sâu. Nhưng chưa có game nào thực sự khai thác một cách sâu sắc.
+            </p>
+            <p>
+              Tôi muốn thay đổi điều đó. Không chỉ tạo ra một game kinh dị, mà là một trải nghiệm văn hóa - nơi người chơi không chỉ sợ hãi, mà còn hiểu thêm về tín ngưỡng, nghi lễ, và thế giới quan của người Việt.
+            </p>
+            
+            <h3>Journey Của Solo Dev</h3>
+            <p>
+              18 tháng development. Một mình. Không team, không publisher. Chỉ có đam mê, một chiếc laptop cũ, và quyết tâm.
+            </p>
+            <p>
+              Blog này document toàn bộ journey - từ những đêm nghi ngờ bản thân, đến moments of breakthrough, đến cuối cùng là launch day. Honest, raw, và real.
+            </p>
+          </div>
+          
+          <div class="about-stats">
+            <div class="stat">
+              <div class="stat-number">50</div>
+              <div class="stat-label">Bài Blog</div>
+            </div>
+            <div class="stat">
+              <div class="stat-number">18</div>
+              <div class="stat-label">Tháng Dev</div>
+            </div>
+            <div class="stat">
+              <div class="stat-number">1</div>
+              <div class="stat-label">Solo Dev</div>
+            </div>
+            <div class="stat">
+              <div class="stat-number">∞</div>
+              <div class="stat-label">Đam Mê</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  
+  <Footer />
+</Layout>
+
+<style>
+  /* Hero Section */
+  .hero {
+    padding: var(--spacing-2xl) 0;
+    background: linear-gradient(135deg, var(--color-bg-primary) 0%, var(--color-bg-secondary) 100%);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -20%;
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(139, 0, 0, 0.1) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+  
+  .hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .hero-title {
+    font-size: clamp(var(--text-3xl), 5vw, var(--text-5xl));
+    margin-bottom: var(--spacing-lg);
+    line-height: 1.1;
+  }
+  
+  .highlight {
+    background: linear-gradient(135deg, var(--color-accent-red), var(--color-accent-orange));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .hero-description {
+    font-size: var(--text-lg);
+    color: var(--color-text-secondary);
+    margin-bottom: var(--spacing-xl);
+    line-height: 1.8;
+  }
+  
+  .hero-cta {
+    display: flex;
+    gap: var(--spacing-md);
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .btn-secondary {
+    background: transparent;
+    border: 2px solid var(--color-accent-red);
+  }
+  
+  .btn-secondary:hover {
+    background: var(--color-accent-red);
+  }
+  
+  /* Latest Posts */
+  .latest-posts {
+    padding: var(--spacing-2xl) 0;
+  }
+  
+  .section-title {
+    text-align: center;
+    margin-bottom: var(--spacing-xl);
+    position: relative;
+  }
+  
+  .section-title::after {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, var(--color-accent-red), transparent);
+    margin: var(--spacing-md) auto 0;
+  }
+  
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: var(--spacing-lg);
+    margin-bottom: var(--spacing-xl);
+  }
+  
+  .view-all {
+    text-align: center;
+  }
+  
+  /* About Section */
+  .about {
+    padding: var(--spacing-2xl) 0;
+    background: var(--color-bg-secondary);
+  }
+  
+  .about-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: var(--spacing-2xl);
+    margin-top: var(--spacing-xl);
+  }
+  
+  .about-text h3 {
+    color: var(--color-accent-orange);
+    margin-top: var(--spacing-lg);
+    margin-bottom: var(--spacing-md);
+  }
+  
+  .about-text h3:first-child {
+    margin-top: 0;
+  }
+  
+  .about-stats {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-lg);
+  }
+  
+  .stat {
+    background: var(--color-bg-tertiary);
+    padding: var(--spacing-lg);
+    border-radius: 8px;
+    text-align: center;
+    border: 1px solid var(--color-border);
+    transition: all var(--transition-base);
+  }
+  
+  .stat:hover {
+    border-color: var(--color-accent-red);
+    box-shadow: var(--shadow-glow);
+  }
+  
+  .stat-number {
+    font-size: var(--text-4xl);
+    font-weight: 700;
+    font-family: var(--font-display);
+    color: var(--color-accent-orange);
+    margin-bottom: var(--spacing-sm);
+  }
+  
+  .stat-label {
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+  }
+  
+  @media (max-width: 768px) {
+    .about-content {
+      grid-template-columns: 1fr;
+    }
+    
+    .posts-grid {
+      grid-template-columns: 1fr;
+    }
+    
+    .hero-cta {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
+</style>

@@ -1,0 +1,97 @@
+---
+---
+
+<header class="header">
+  <nav class="container">
+    <div class="nav-wrapper">
+      <a href="/" class="logo">
+        <span class="logo-icon">👻</span>
+        <span class="logo-text">Horror Dev Journey</span>
+      </a>
+      
+      <div class="nav-links">
+        <a href="/">Trang Chủ</a>
+        <a href="/blog">Blog</a>
+        <a href="/#about">Về Dự Án</a>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<style>
+  .header {
+    background: var(--color-bg-secondary);
+    border-bottom: 1px solid var(--color-border);
+    padding: var(--spacing-md) 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(10px);
+    background: rgba(18, 18, 18, 0.9);
+  }
+  
+  .nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    font-size: var(--text-xl);
+    font-weight: 700;
+    font-family: var(--font-display);
+    color: var(--color-text-primary);
+    transition: all var(--transition-base);
+  }
+  
+  .logo:hover {
+    color: var(--color-accent-red-glow);
+    transform: scale(1.05);
+  }
+  
+  .logo-icon {
+    font-size: var(--text-2xl);
+    filter: drop-shadow(0 0 10px var(--color-accent-red));
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: var(--spacing-lg);
+  }
+  
+  .nav-links a {
+    color: var(--color-text-secondary);
+    font-weight: 600;
+    transition: color var(--transition-fast);
+    position: relative;
+  }
+  
+  .nav-links a::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--color-accent-red-glow);
+    transition: width var(--transition-base);
+  }
+  
+  .nav-links a:hover::after {
+    width: 100%;
+  }
+  
+  @media (max-width: 768px) {
+    .nav-wrapper {
+      flex-direction: column;
+      gap: var(--spacing-md);
+    }
+    
+    .nav-links {
+      gap: var(--spacing-md);
+    }
+  }
+</style>

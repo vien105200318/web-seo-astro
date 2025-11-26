@@ -1,0 +1,85 @@
+---
+---
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>Hành Trình Horror Dev</h3>
+        <p>Nhật ký của một solo developer tạo ra game kinh dị Việt Nam.</p>
+      </div>
+      
+      <div class="footer-section">
+        <h4>Links</h4>
+        <ul>
+          <li><a href="/">Trang Chủ</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/#about">Về Dự Án</a></li>
+        </ul>
+      </div>
+      
+      <div class="footer-section">
+        <h4>Connect</h4>
+        <ul>
+          <li><a href="https://twitter.com" target="_blank" rel="noopener">Twitter</a></li>
+          <li><a href="https://github.com" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://discord.com" target="_blank" rel="noopener">Discord</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <p>&copy; 2024 Solo Dev. Made with ❤️ in Việt Nam.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--color-bg-secondary);
+    border-top: 1px solid var(--color-border);
+    padding: var(--spacing-2xl) 0 var(--spacing-lg);
+    margin-top: var(--spacing-2xl);
+  }
+  
+  .footer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--spacing-xl);
+    margin-bottom: var(--spacing-xl);
+  }
+  
+  .footer-section h3,
+  .footer-section h4 {
+    margin-bottom: var(--spacing-md);
+    color: var(--color-accent-orange);
+  }
+  
+  .footer-section p {
+    color: var(--color-text-muted);
+  }
+  
+  .footer-section ul {
+    list-style: none;
+  }
+  
+  .footer-section ul li {
+    margin-bottom: var(--spacing-sm);
+  }
+  
+  .footer-section ul li a {
+    color: var(--color-text-secondary);
+    transition: color var(--transition-fast);
+  }
+  
+  .footer-section ul li a:hover {
+    color: var(--color-accent-red-glow);
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    padding-top: var(--spacing-lg);
+    border-top: 1px solid var(--color-border);
+    color: var(--color-text-muted);
+  }
+</style>
